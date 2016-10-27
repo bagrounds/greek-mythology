@@ -16,7 +16,7 @@ cd greek-mythology
 ```
 
 ## Geneology Graph
-![Greek Gods Geneology Graph](gods.svg)
+![Greek Gods Geneology Graph](https://cdn.rawgit.com/bagrounds/greek-mythology/master/gods.svg)
 
 ## License
 [MIT](LICENSE)
