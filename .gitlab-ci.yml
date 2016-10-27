@@ -6,7 +6,7 @@
   "pages": {
     "stage": "deploy",
     "environment": "pages",
-    "script" [
+    "script": [
       "npm install",
       "npm run build"
     ],
