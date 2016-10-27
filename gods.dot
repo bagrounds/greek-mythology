@@ -1,0 +1,158 @@
+digraph gods {
+  Zeus[color=blue];
+  Cronus[color=blue];
+  Poseidon[color=blue];
+  Ares[color=blue];
+  Apollo[color=blue];
+  Zagreus[color=blue];
+  Hades[color=blue];
+  Hermes[color=blue];
+  Dionysus[color=blue];
+  Uranus[color=blue];
+  Chiron[color=blue];
+  Triton[color=blue]
+
+  Amphitrite[color=pink]
+  Macaria[color=pink];
+  Gaia[color=pink];
+  Philyra[color=pink];
+  Melinoe[color=pink];
+  Artemis[color=pink];
+  Semele[color=pink];
+  Maia[color=pink];
+  Aphrodite[color=pink];
+  Dione[color=pink];
+  Leto[color=pink];
+  Hephaestus[color=pink];
+  Hestia[color=pink];
+  Metis[color=pink];
+  Hera[color=pink];
+  Athena[color=pink];
+  Persephone[color=pink];
+  Demeter[color=pink];
+  Rhea[color=pink];
+  Enyo[color=pink]
+  Eileithyia[color=pink]
+  Eris[color=pink]
+  Hebe[color=pink]
+
+  Cronus -> Zeus;
+  Rhea -> Zeus;
+
+  Cronus -> Hera;
+  Rhea -> Hera;
+
+  Cronus -> Demeter;
+  Rhea -> Demeter;
+
+  Cronus -> Hades;
+  Rhea -> Hades;
+
+  Cronus -> Hestia;
+  Rhea -> Hestia;
+
+  Cronus -> Poseidon;
+  Rhea -> Poseidon;
+
+  Zeus -> Persephone;
+  Demeter -> Persephone;
+
+  Zeus -> Ares;
+  Hera -> Ares;
+
+  Zeus -> Athena;
+  Metis -> Athena;
+
+  Zeus -> Apollo;
+  Leto -> Apollo;
+
+  Zeus -> Artemis;
+  Leto -> Artemis;
+
+  Persephone -> Melinoe;
+  Zeus -> Melinoe;
+
+  Persephone -> Zagreus;
+  Zeus -> Zagreus;
+  Hades -> Zagreus;
+
+  Zeus -> Aphrodite;
+  Dione -> Aphrodite;
+
+  Zeus -> Hermes;
+  Maia -> Hermes;
+
+  Zeus -> Dionysus;
+  Semele -> Dionysus;
+
+  Zeus -> Hephaestus;
+  Hera -> Hephaestus;
+
+  Zeus -> Hebe;
+  Hera -> Hebe;
+
+  Zeus -> Eris;
+  Hera -> Eris;
+
+  Zeus -> Eileithyia;
+  Hera -> Eileithyia;
+
+  Zeus -> Enyo;
+  Hera -> Enyo;
+
+  Cronus -> Chiron;
+  Philyra -> Chiron;
+
+  Uranus -> Cronus;
+  Gaia -> Cronus;
+
+  Uranus -> Rhea;
+  Gaia -> Rhea;
+
+  Hades -> Macaria;
+
+  Poseidon -> Triton;
+  Amphitrite -> Triton;
+
+  Eros[color=blue]
+  Aphrodite -> Eros;
+  Ares -> Eros;
+
+  Phobos[color=blue]
+  Aphrodite -> Phobos;
+  Ares -> Phobos;
+
+  Deimos[color=blue]
+  Aphrodite -> Deimos;
+  Ares -> Deimos;
+
+  Harmonia[color=pink]
+  Adrestia[color=Pink]
+  Aphrodite -> Harmonia;
+  Ares -> Harmonia;
+
+  Anteros[color=blue]
+  Aphrodite -> Anteros;
+  Ares -> Anteros;
+
+  Aphrodite -> Adrestia;
+  Ares -> Adrestia;
+
+  Himeros[color=blue]
+  Aphrodite -> Himeros;
+  Ares -> Himeros;
+
+  Hermaphroditus[color=purple]
+  Hermes[color=blue]
+  Aphrodite -> Hermaphroditus;
+  Hermes -> Hermaphroditus;
+
+  Tyche[color=pink]
+  Aphrodite -> Tyche;
+  Zeus -> Tyche;
+  Hermes -> Tyche;
+
+  Eunomia[color=pink]
+  Zeus -> Eunomia;
+  Themis -> Eunomia;
+}
