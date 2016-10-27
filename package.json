@@ -4,9 +4,13 @@
   "description": "An incomplete geneology graph made with GraphViz",
   "main": "index.js",
   "scripts": {
-    "prebuild": "mkdir -p public",
-    "build": "showdown makehtml -i README.md -o public/index.html",
+    "prebuild": "./graph.sh && mkdir -p public",
+    "build": "npm run css && npm run html",
     "postbuild": "cp LICENSE public/ && cp gods.svg public/",
+    "precss": "mkdir -p public/css",
+    "css": "stylus styles -o public/css",
+    "prehtml": "showdown makehtml -i README.md -o README.html",
+    "html": "pug views -o public --pretty",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -27,6 +31,8 @@
   },
   "homepage": "https://gitlab.com/bagrounds/greek-mythology#README",
   "dependencies": {
-    "showdown": "^1.4.3"
+    "pug-cli": "^1.0.0-alpha6",
+    "showdown": "^1.4.3",
+    "stylus": "^0.54.5"
   }
 }

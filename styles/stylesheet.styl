@@ -1,0 +1,50 @@
+C0 = #001816
+C1 = #004742
+C2 = #006861
+C3 = #00897F
+C4 = #00C6B7
+
+FONT_SIZE = 16pt
+
+*
+  margin 0
+  padding 0
+  font-family Sans-serif
+
+html
+body
+  font-size FONT_SIZE
+  background BLACK
+  color WHITE
+  height 100%
+  width 100%
+  position absolute
+  text-align center
+
+code
+  font-family Consolas "Liberation Mono" Menlo Courier monospace
+  padding 0.2em
+  font-size 85%
+  background-color rgba(255,255,255,.2)
+  border-radius 3px
+
+  before::
+  after::
+    letter-spacing -0.2em
+    content "\00a0"
+
+img
+  margin-top 2em
+  margin-bottom 2em
+  max-width 100%
+
+h2
+  margin-top 1em
+
+p
+  color C4
+
+a
+  text-decoration none
+  color inherit
+

@@ -1,200 +1,204 @@
 digraph gods {
-  Zeus[color=blue];
-  Cronus[color=blue];
-  Poseidon[color=blue];
-  Ares[color=blue];
-  Apollo[color=blue];
-  Zagreus[color=blue];
-  Hades[color=blue];
-  Hermes[color=blue];
-  Dionysus[color=blue];
-  Uranus[color=blue];
-  Chiron[color=blue];
-  Triton[color=blue]
+  graph[style=filled pencolor=white bgcolor=transparent]
 
-  Amphitrite[color=pink]
-  Macaria[color=pink];
-  Gaia[color=pink];
-  Philyra[color=pink];
-  Melinoe[color=pink];
-  Artemis[color=pink];
-  Semele[color=pink];
-  Maia[color=pink];
-  Aphrodite[color=pink];
-  Dione[color=pink];
-  Leto[color=pink];
-  Hephaestus[color=pink];
-  Hestia[color=pink];
-  Metis[color=pink];
-  Hera[color=pink];
-  Athena[color=pink];
-  Persephone[color=pink];
-  Demeter[color=pink];
-  Rhea[color=pink];
-  Enyo[color=pink]
-  Eileithyia[color=pink]
-  Eris[color=pink]
-  Hebe[color=pink]
+  Zeus[color=white fontcolor=white style=filled fillcolor=blue]
+  Cronus[color=white fontcolor=white style=filled fillcolor=blue]
+  Poseidon[color=white fontcolor=white style=filled fillcolor=blue]
+  Ares[color=white fontcolor=white style=filled fillcolor=blue]
+  Apollo[color=white fontcolor=white style=filled fillcolor=blue]
+  Zagreus[color=white fontcolor=white style=filled fillcolor=blue]
+  Hades[color=white fontcolor=white style=filled fillcolor=blue]
+  Hermes[color=white fontcolor=white style=filled fillcolor=blue]
+  Dionysus[color=white fontcolor=white style=filled fillcolor=blue]
+  Uranus[color=white fontcolor=white style=filled fillcolor=blue]
+  Chiron[color=white fontcolor=white style=filled fillcolor=blue]
+  Triton[color=white fontcolor=white style=filled fillcolor=blue]
 
-  Cronus -> Zeus;
-  Rhea -> Zeus;
+  Amphitrite[color=white fontcolor=black style=filled fillcolor=pink]
+  Macaria[color=white fontcolor=black style=filled fillcolor=pink]
+  Gaia[color=white fontcolor=black style=filled fillcolor=pink]
+  Philyra[color=white fontcolor=black style=filled fillcolor=pink]
+  Melinoe[color=white fontcolor=black style=filled fillcolor=pink]
+  Artemis[color=white fontcolor=black style=filled fillcolor=pink]
+  Semele[color=white fontcolor=black style=filled fillcolor=pink]
+  Maia[color=white fontcolor=black style=filled fillcolor=pink]
+  Aphrodite[color=white fontcolor=black style=filled fillcolor=pink]
+  Dione[color=white fontcolor=black style=filled fillcolor=pink]
+  Leto[color=white fontcolor=black style=filled fillcolor=pink]
+  Hephaestus[color=white fontcolor=black style=filled fillcolor=pink]
+  Hestia[color=white fontcolor=black style=filled fillcolor=pink]
+  Metis[color=white fontcolor=black style=filled fillcolor=pink]
+  Hera[color=white fontcolor=black style=filled fillcolor=pink]
+  Athena[color=white fontcolor=black style=filled fillcolor=pink]
+  Persephone[color=white fontcolor=black style=filled fillcolor=pink]
+  Demeter[color=white fontcolor=black style=filled fillcolor=pink]
+  Rhea[color=white fontcolor=black style=filled fillcolor=pink]
+  Enyo[color=white fontcolor=black style=filled fillcolor=pink]
+  Eileithyia[color=white fontcolor=black style=filled fillcolor=pink]
+  Eris[color=white fontcolor=black style=filled fillcolor=pink]
+  Hebe[color=white fontcolor=black style=filled fillcolor=pink]
 
-  Cronus -> Hera;
-  Rhea -> Hera;
+  Cronus -> Zeus[color=white]
+  Rhea -> Zeus[color=white]
 
-  Cronus -> Demeter;
-  Rhea -> Demeter;
+  Cronus -> Hera[color=white]
+  Rhea -> Hera[color=white]
 
-  Cronus -> Hades;
-  Rhea -> Hades;
+  Cronus -> Demeter[color=white]
+  Rhea -> Demeter[color=white]
 
-  Cronus -> Hestia;
-  Rhea -> Hestia;
+  Cronus -> Hades[color=white]
+  Rhea -> Hades[color=white]
 
-  Cronus -> Poseidon;
-  Rhea -> Poseidon;
+  Cronus -> Hestia[color=white]
+  Rhea -> Hestia[color=white]
 
-  Zeus -> Persephone;
-  Demeter -> Persephone;
+  Cronus -> Poseidon[color=white]
+  Rhea -> Poseidon[color=white]
 
-  Zeus -> Ares;
-  Hera -> Ares;
+  Zeus -> Persephone[color=white]
+  Demeter -> Persephone[color=white]
 
-  Zeus -> Athena;
-  Metis -> Athena;
+  Zeus -> Ares[color=white]
+  Hera -> Ares[color=white]
 
-  Zeus -> Apollo;
-  Leto -> Apollo;
+  Zeus -> Athena[color=white]
+  Metis -> Athena[color=white]
 
-  Zeus -> Artemis;
-  Leto -> Artemis;
+  Zeus -> Apollo[color=white]
+  Leto -> Apollo[color=white]
 
-  Persephone -> Melinoe;
-  Zeus -> Melinoe;
+  Zeus -> Artemis[color=white]
+  Leto -> Artemis[color=white]
 
-  Persephone -> Zagreus;
-  Zeus -> Zagreus;
-  Hades -> Zagreus;
+  Persephone -> Melinoe[color=white]
+  Zeus -> Melinoe[color=white]
 
-  Zeus -> Aphrodite;
-  Dione -> Aphrodite;
+  Persephone -> Zagreus[color=white]
+  Zeus -> Zagreus[color=white]
+  Hades -> Zagreus[color=white]
 
-  Zeus -> Hermes;
-  Maia -> Hermes;
+  Zeus -> Aphrodite[color=white]
+  Dione -> Aphrodite[color=white]
 
-  Zeus -> Dionysus;
-  Semele -> Dionysus;
+  Zeus -> Hermes[color=white]
+  Maia -> Hermes[color=white]
 
-  Zeus -> Hephaestus;
-  Hera -> Hephaestus;
+  Zeus -> Dionysus[color=white]
+  Semele -> Dionysus[color=white]
 
-  Zeus -> Hebe;
-  Hera -> Hebe;
+  Zeus -> Hephaestus[color=white]
+  Hera -> Hephaestus[color=white]
 
-  Zeus -> Eris;
-  Hera -> Eris;
+  Zeus -> Hebe[color=white]
+  Hera -> Hebe[color=white]
 
-  Zeus -> Eileithyia;
-  Hera -> Eileithyia;
+  Zeus -> Eris[color=white]
+  Hera -> Eris[color=white]
 
-  Zeus -> Enyo;
-  Hera -> Enyo;
+  Zeus -> Eileithyia[color=white]
+  Hera -> Eileithyia[color=white]
 
-  Cronus -> Chiron;
-  Philyra -> Chiron;
+  Zeus -> Enyo[color=white]
+  Hera -> Enyo[color=white]
 
-  Uranus -> Cronus;
-  Gaia -> Cronus;
+  Cronus -> Chiron[color=white]
+  Philyra -> Chiron[color=white]
 
-  Uranus -> Rhea;
-  Gaia -> Rhea;
+  Uranus -> Cronus[color=white]
+  Gaia -> Cronus[color=white]
 
-  Hades -> Macaria;
+  Uranus -> Rhea[color=white]
+  Gaia -> Rhea[color=white]
 
-  Poseidon -> Triton;
-  Amphitrite -> Triton;
+  Hades -> Macaria[color=white]
 
-  Eros[color=blue]
-  Aphrodite -> Eros;
-  Ares -> Eros;
+  Poseidon -> Triton[color=white]
+  Amphitrite -> Triton[color=white]
 
-  Phobos[color=blue]
-  Aphrodite -> Phobos;
-  Ares -> Phobos;
+  Eros[color=white fontcolor=white style=filled fillcolor=blue]
+  Aphrodite -> Eros[color=white]
+  Ares -> Eros[color=white]
 
-  Deimos[color=blue]
-  Aphrodite -> Deimos;
-  Ares -> Deimos;
+  Phobos[color=white fontcolor=white style=filled fillcolor=blue]
+  Aphrodite -> Phobos[color=white]
+  Ares -> Phobos[color=white]
 
-  Harmonia[color=pink]
-  Adrestia[color=Pink]
-  Aphrodite -> Harmonia;
-  Ares -> Harmonia;
+  Deimos[color=white fontcolor=white style=filled fillcolor=blue]
+  Aphrodite -> Deimos[color=white]
+  Ares -> Deimos[color=white]
 
-  Anteros[color=blue]
-  Aphrodite -> Anteros;
-  Ares -> Anteros;
+  Harmonia[color=white fontcolor=black style=filled fillcolor=pink]
+  Adrestia[color=white fontcolor=white style=filled fillcolor=Pink]
+  Aphrodite -> Harmonia[color=white]
+  Ares -> Harmonia[color=white]
 
-  Aphrodite -> Adrestia;
-  Ares -> Adrestia;
+  Anteros[color=white fontcolor=white style=filled fillcolor=blue]
+  Aphrodite -> Anteros[color=white]
+  Ares -> Anteros[color=white]
 
-  Himeros[color=blue]
-  Aphrodite -> Himeros;
-  Ares -> Himeros;
+  Aphrodite -> Adrestia[color=white]
+  Ares -> Adrestia[color=white]
 
-  Hermaphroditus[color=purple]
-  Hermes[color=blue]
-  Aphrodite -> Hermaphroditus;
-  Hermes -> Hermaphroditus;
+  Himeros[color=white fontcolor=white style=filled fillcolor=blue]
+  Aphrodite -> Himeros[color=white]
+  Ares -> Himeros[color=white]
 
-  Tyche[color=pink]
-  Aphrodite -> Tyche;
-  Zeus -> Tyche;
-  Hermes -> Tyche;
+  Hermaphroditus[color=white fontcolor=white style=filled fillcolor=purple]
+  Hermes[color=white fontcolor=white style=filled fillcolor=blue]
+  Aphrodite -> Hermaphroditus[color=white]
+  Hermes -> Hermaphroditus[color=white]
 
-  Eunomia[color=pink]
-  Zeus -> Eunomia;
-  Themis -> Eunomia;
+  Tyche[color=white fontcolor=black style=filled fillcolor=pink]
+  Aphrodite -> Tyche[color=white]
+  Zeus -> Tyche[color=white]
+  Hermes -> Tyche[color=white]
 
-  Despoina[color=pink]
-  Demeter -> Despoina;
-  Poseidon -> Despoina;
+  Eunomia[color=white fontcolor=black style=filled fillcolor=pink]
+  Zeus -> Eunomia[color=white]
 
-  Arion[color=blue]
-  Demeter -> Arion;
-  Poseidon -> Arion;
+  Themis[color=white fontcolor=black style=filled fillcolor=pink]
+  Themis -> Eunomia[color=white]
 
-  Aglaea[color=pink]
-  Eunomia[color=pink]
-  Zeus -> Aglaea;
-  Eunomia -> Aglaea;
+  Despoina[color=white fontcolor=black style=filled fillcolor=pink]
+  Demeter -> Despoina[color=white]
+  Poseidon -> Despoina[color=white]
 
-  Euphrosyne[color=pink]
-  Zeus -> Euphrosyne;
-  Eunomia -> Euphrosyne;
+  Arion[color=white fontcolor=white style=filled fillcolor=blue]
+  Demeter -> Arion[color=white]
+  Poseidon -> Arion[color=white]
 
-  Thalia[color=pink]
-  Zeus -> Thalia;
-  Eunomia -> Thalia;
+  Aglaea[color=white fontcolor=black style=filled fillcolor=pink]
+  Eunomia[color=white fontcolor=black style=filled fillcolor=pink]
+  Zeus -> Aglaea[color=white]
+  Eunomia -> Aglaea[color=white]
 
-  Eucleia[color=pink]
-  Aglaea -> Eucleia;
-  Hephaestus -> Eucleia;
+  Euphrosyne[color=white fontcolor=black style=filled fillcolor=pink]
+  Zeus -> Euphrosyne[color=white]
+  Eunomia -> Euphrosyne[color=white]
 
-  Eupheme[color=pink]
-  Aglaea -> Eupheme;
-  Hephaestus -> Eupheme;
+  Thalia[color=white fontcolor=black style=filled fillcolor=pink]
+  Zeus -> Thalia[color=white]
+  Eunomia -> Thalia[color=white]
 
-  Euthenia[color=pink]
-  Aglaea -> Euthenia;
-  Hephaestus -> Euthenia;
+  Eucleia[color=white fontcolor=black style=filled fillcolor=pink]
+  Aglaea -> Eucleia[color=white]
+  Hephaestus -> Eucleia[color=white]
 
-  Philophrosyne[color=pink]
-  Aglaea -> Philophrosyne;
-  Hephaestus -> Philophrosyne;
+  Eupheme[color=white fontcolor=black style=filled fillcolor=pink]
+  Aglaea -> Eupheme[color=white]
+  Hephaestus -> Eupheme[color=white]
 
-  Coronis[color=pink]
-  Asclepius[color=blue]
-  Apollo -> Asclepius;
-  Coronis -> Asclepius;
+  Euthenia[color=white fontcolor=black style=filled fillcolor=pink]
+  Aglaea -> Euthenia[color=white]
+  Hephaestus -> Euthenia[color=white]
+
+  Philophrosyne[color=white fontcolor=black style=filled fillcolor=pink]
+  Aglaea -> Philophrosyne[color=white]
+  Hephaestus -> Philophrosyne[color=white]
+
+  Coronis[color=white fontcolor=black style=filled fillcolor=pink]
+  Asclepius[color=white fontcolor=white style=filled fillcolor=blue]
+  Apollo -> Asclepius[color=white]
+  Coronis -> Asclepius[color=white]
 }

@@ -1,7 +1,7 @@
 # Greek Mythology
 An incomplete geneology graph made with GraphViz
 
-# Dependencies
+## Dependencies
 [Graphviz](http://www.graphviz.org/) (`sudo apt-get install graphviz` or `brew install graphviz`)
 
 ## Install

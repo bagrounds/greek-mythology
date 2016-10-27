@@ -8,756 +8,755 @@
  viewBox="0.00 0.00 1993.15 404.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 400)">
 <title>gods</title>
-<polygon fill="white" stroke="none" points="-4,4 -4,-400 1989.15,-400 1989.15,4 -4,4"/>
 <!-- Zeus -->
 <g id="node1" class="node"><title>Zeus</title>
-<ellipse fill="none" stroke="blue" cx="1154.51" cy="-234" rx="27.0958" ry="18"/>
-<text text-anchor="middle" x="1154.51" y="-229.8" font-family="Times,serif" font-size="14.00">Zeus</text>
+<ellipse fill="blue" stroke="white" cx="1154.51" cy="-234" rx="27.0958" ry="18"/>
+<text text-anchor="middle" x="1154.51" y="-229.8" font-family="Times,serif" font-size="14.00" fill="white">Zeus</text>
 </g>
 <!-- Ares -->
 <g id="node4" class="node"><title>Ares</title>
-<ellipse fill="none" stroke="blue" cx="826.507" cy="-162" rx="27" ry="18"/>
-<text text-anchor="middle" x="826.507" y="-157.8" font-family="Times,serif" font-size="14.00">Ares</text>
+<ellipse fill="blue" stroke="white" cx="826.507" cy="-162" rx="27" ry="18"/>
+<text text-anchor="middle" x="826.507" y="-157.8" font-family="Times,serif" font-size="14.00" fill="white">Ares</text>
 </g>
 <!-- Zeus&#45;&gt;Ares -->
 <g id="edge15" class="edge"><title>Zeus&#45;&gt;Ares</title>
-<path fill="none" stroke="black" d="M1128.51,-227.755C1082.48,-218.429 983.672,-198.227 900.507,-180 887.732,-177.2 873.743,-174.017 861.401,-171.168"/>
-<polygon fill="black" stroke="black" points="862.016,-167.718 851.484,-168.869 860.435,-174.537 862.016,-167.718"/>
+<path fill="none" stroke="white" d="M1128.51,-227.755C1082.48,-218.429 983.672,-198.227 900.507,-180 887.732,-177.2 873.743,-174.017 861.401,-171.168"/>
+<polygon fill="white" stroke="white" points="862.016,-167.718 851.484,-168.869 860.435,-174.537 862.016,-167.718"/>
 </g>
 <!-- Apollo -->
 <g id="node5" class="node"><title>Apollo</title>
-<ellipse fill="none" stroke="blue" cx="1661.51" cy="-162" rx="34.8458" ry="18"/>
-<text text-anchor="middle" x="1661.51" y="-157.8" font-family="Times,serif" font-size="14.00">Apollo</text>
+<ellipse fill="blue" stroke="white" cx="1661.51" cy="-162" rx="34.8458" ry="18"/>
+<text text-anchor="middle" x="1661.51" y="-157.8" font-family="Times,serif" font-size="14.00" fill="white">Apollo</text>
 </g>
 <!-- Zeus&#45;&gt;Apollo -->
 <g id="edge19" class="edge"><title>Zeus&#45;&gt;Apollo</title>
-<path fill="none" stroke="black" d="M1181.01,-229.601C1208.6,-226.089 1253.06,-220.501 1291.51,-216 1436.73,-198.997 1476.59,-215.191 1618.51,-180 1621.12,-179.352 1623.79,-178.582 1626.45,-177.734"/>
-<polygon fill="black" stroke="black" points="1627.68,-181.011 1635.95,-174.392 1625.36,-174.407 1627.68,-181.011"/>
+<path fill="none" stroke="white" d="M1181.01,-229.601C1208.6,-226.089 1253.06,-220.501 1291.51,-216 1436.73,-198.997 1476.59,-215.191 1618.51,-180 1621.12,-179.352 1623.79,-178.582 1626.45,-177.734"/>
+<polygon fill="white" stroke="white" points="1627.68,-181.011 1635.95,-174.392 1625.36,-174.407 1627.68,-181.011"/>
 </g>
 <!-- Zagreus -->
 <g id="node6" class="node"><title>Zagreus</title>
-<ellipse fill="none" stroke="blue" cx="214.507" cy="-90" rx="38.6782" ry="18"/>
-<text text-anchor="middle" x="214.507" y="-85.8" font-family="Times,serif" font-size="14.00">Zagreus</text>
+<ellipse fill="blue" stroke="white" cx="214.507" cy="-90" rx="38.6782" ry="18"/>
+<text text-anchor="middle" x="214.507" y="-85.8" font-family="Times,serif" font-size="14.00" fill="white">Zagreus</text>
 </g>
 <!-- Zeus&#45;&gt;Zagreus -->
 <g id="edge26" class="edge"><title>Zeus&#45;&gt;Zagreus</title>
-<path fill="none" stroke="black" d="M1127.42,-230.854C1085.9,-227.578 1004.04,-221.165 934.507,-216 822.309,-207.666 533.046,-224.019 429.507,-180 407.496,-170.642 410.457,-155.54 389.507,-144 337.745,-115.487 317.775,-126.062 261.507,-108 258.796,-107.13 256.008,-106.203 253.207,-105.249"/>
-<polygon fill="black" stroke="black" points="254.323,-101.932 243.728,-101.942 252.017,-108.541 254.323,-101.932"/>
+<path fill="none" stroke="white" d="M1127.42,-230.854C1085.9,-227.578 1004.04,-221.165 934.507,-216 822.309,-207.666 533.046,-224.019 429.507,-180 407.496,-170.642 410.457,-155.54 389.507,-144 337.745,-115.487 317.775,-126.062 261.507,-108 258.796,-107.13 256.008,-106.203 253.207,-105.249"/>
+<polygon fill="white" stroke="white" points="254.323,-101.932 243.728,-101.942 252.017,-108.541 254.323,-101.932"/>
 </g>
 <!-- Hermes -->
 <g id="node8" class="node"><title>Hermes</title>
-<ellipse fill="none" stroke="blue" cx="595.507" cy="-162" rx="37.7179" ry="18"/>
-<text text-anchor="middle" x="595.507" y="-157.8" font-family="Times,serif" font-size="14.00">Hermes</text>
+<ellipse fill="blue" stroke="white" cx="595.507" cy="-162" rx="37.7179" ry="18"/>
+<text text-anchor="middle" x="595.507" y="-157.8" font-family="Times,serif" font-size="14.00" fill="white">Hermes</text>
 </g>
 <!-- Zeus&#45;&gt;Hermes -->
 <g id="edge30" class="edge"><title>Zeus&#45;&gt;Hermes</title>
-<path fill="none" stroke="black" d="M1127.46,-230.933C1036.29,-223.849 740.77,-199.885 647.507,-180 643.104,-179.061 638.548,-177.887 634.047,-176.597"/>
-<polygon fill="black" stroke="black" points="634.949,-173.213 624.363,-173.634 632.901,-179.907 634.949,-173.213"/>
+<path fill="none" stroke="white" d="M1127.46,-230.933C1036.29,-223.849 740.77,-199.885 647.507,-180 643.104,-179.061 638.548,-177.887 634.047,-176.597"/>
+<polygon fill="white" stroke="white" points="634.949,-173.213 624.363,-173.634 632.901,-179.907 634.949,-173.213"/>
 </g>
 <!-- Dionysus -->
 <g id="node9" class="node"><title>Dionysus</title>
-<ellipse fill="none" stroke="blue" cx="1852.51" cy="-162" rx="43.5405" ry="18"/>
-<text text-anchor="middle" x="1852.51" y="-157.8" font-family="Times,serif" font-size="14.00">Dionysus</text>
+<ellipse fill="blue" stroke="white" cx="1852.51" cy="-162" rx="43.5405" ry="18"/>
+<text text-anchor="middle" x="1852.51" y="-157.8" font-family="Times,serif" font-size="14.00" fill="white">Dionysus</text>
 </g>
 <!-- Zeus&#45;&gt;Dionysus -->
 <g id="edge32" class="edge"><title>Zeus&#45;&gt;Dionysus</title>
-<path fill="none" stroke="black" d="M1180.98,-229.295C1208.54,-225.536 1252.98,-219.753 1291.51,-216 1516.79,-194.056 1577.26,-222.873 1799.51,-180 1803.35,-179.259 1807.3,-178.328 1811.23,-177.285"/>
-<polygon fill="black" stroke="black" points="1812.24,-180.636 1820.88,-174.506 1810.3,-173.909 1812.24,-180.636"/>
+<path fill="none" stroke="white" d="M1180.98,-229.295C1208.54,-225.536 1252.98,-219.753 1291.51,-216 1516.79,-194.056 1577.26,-222.873 1799.51,-180 1803.35,-179.259 1807.3,-178.328 1811.23,-177.285"/>
+<polygon fill="white" stroke="white" points="1812.24,-180.636 1820.88,-174.506 1810.3,-173.909 1812.24,-180.636"/>
 </g>
 <!-- Melinoe -->
 <g id="node17" class="node"><title>Melinoe</title>
-<ellipse fill="none" stroke="pink" cx="1201.51" cy="-90" rx="39.6558" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="1201.51" cy="-90" rx="39.6558" ry="18"/>
 <text text-anchor="middle" x="1201.51" y="-85.8" font-family="Times,serif" font-size="14.00">Melinoe</text>
 </g>
 <!-- Zeus&#45;&gt;Melinoe -->
 <g id="edge24" class="edge"><title>Zeus&#45;&gt;Melinoe</title>
-<path fill="none" stroke="black" d="M1177.43,-224.1C1195.49,-215.717 1219.42,-201.249 1230.51,-180 1241.3,-159.323 1230.87,-133.858 1219.63,-115.472"/>
-<polygon fill="black" stroke="black" points="1222.54,-113.522 1214.14,-107.067 1216.68,-117.352 1222.54,-113.522"/>
+<path fill="none" stroke="white" d="M1177.43,-224.1C1195.49,-215.717 1219.42,-201.249 1230.51,-180 1241.3,-159.323 1230.87,-133.858 1219.63,-115.472"/>
+<polygon fill="white" stroke="white" points="1222.54,-113.522 1214.14,-107.067 1216.68,-117.352 1222.54,-113.522"/>
 </g>
 <!-- Artemis -->
 <g id="node18" class="node"><title>Artemis</title>
-<ellipse fill="none" stroke="pink" cx="1570.51" cy="-162" rx="38.6955" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="1570.51" cy="-162" rx="38.6955" ry="18"/>
 <text text-anchor="middle" x="1570.51" y="-157.8" font-family="Times,serif" font-size="14.00">Artemis</text>
 </g>
 <!-- Zeus&#45;&gt;Artemis -->
 <g id="edge21" class="edge"><title>Zeus&#45;&gt;Artemis</title>
-<path fill="none" stroke="black" d="M1181.2,-229.686C1253.67,-220.595 1452.98,-194.951 1517.51,-180 1521.92,-178.979 1526.48,-177.762 1531.01,-176.456"/>
-<polygon fill="black" stroke="black" points="1532.21,-179.75 1540.76,-173.494 1530.17,-173.052 1532.21,-179.75"/>
+<path fill="none" stroke="white" d="M1181.2,-229.686C1253.67,-220.595 1452.98,-194.951 1517.51,-180 1521.92,-178.979 1526.48,-177.762 1531.01,-176.456"/>
+<polygon fill="white" stroke="white" points="1532.21,-179.75 1540.76,-173.494 1530.17,-173.052 1532.21,-179.75"/>
 </g>
 <!-- Aphrodite -->
 <g id="node21" class="node"><title>Aphrodite</title>
-<ellipse fill="none" stroke="pink" cx="735.507" cy="-162" rx="45.9286" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="735.507" cy="-162" rx="45.9286" ry="18"/>
 <text text-anchor="middle" x="735.507" y="-157.8" font-family="Times,serif" font-size="14.00">Aphrodite</text>
 </g>
 <!-- Zeus&#45;&gt;Aphrodite -->
 <g id="edge28" class="edge"><title>Zeus&#45;&gt;Aphrodite</title>
-<path fill="none" stroke="black" d="M1127.3,-230.497C1066.42,-224.579 914.778,-208.074 790.507,-180 786.83,-179.169 783.043,-178.214 779.257,-177.19"/>
-<polygon fill="black" stroke="black" points="779.895,-173.732 769.318,-174.353 777.973,-180.463 779.895,-173.732"/>
+<path fill="none" stroke="white" d="M1127.3,-230.497C1066.42,-224.579 914.778,-208.074 790.507,-180 786.83,-179.169 783.043,-178.214 779.257,-177.19"/>
+<polygon fill="white" stroke="white" points="779.895,-173.732 769.318,-174.353 777.973,-180.463 779.895,-173.732"/>
 </g>
 <!-- Hephaestus -->
 <g id="node24" class="node"><title>Hephaestus</title>
-<ellipse fill="none" stroke="pink" cx="1309.51" cy="-90" rx="50.7483" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="1309.51" cy="-90" rx="50.7483" ry="18"/>
 <text text-anchor="middle" x="1309.51" y="-85.8" font-family="Times,serif" font-size="14.00">Hephaestus</text>
 </g>
 <!-- Zeus&#45;&gt;Hephaestus -->
 <g id="edge34" class="edge"><title>Zeus&#45;&gt;Hephaestus</title>
-<path fill="none" stroke="black" d="M1176.97,-223.655C1197.01,-214.56 1226.38,-199.301 1247.51,-180 1267.58,-161.665 1284.73,-135.703 1295.87,-116.549"/>
-<polygon fill="black" stroke="black" points="1298.97,-118.184 1300.85,-107.756 1292.88,-114.738 1298.97,-118.184"/>
+<path fill="none" stroke="white" d="M1176.97,-223.655C1197.01,-214.56 1226.38,-199.301 1247.51,-180 1267.58,-161.665 1284.73,-135.703 1295.87,-116.549"/>
+<polygon fill="white" stroke="white" points="1298.97,-118.184 1300.85,-107.756 1292.88,-114.738 1298.97,-118.184"/>
 </g>
 <!-- Athena -->
 <g id="node28" class="node"><title>Athena</title>
-<ellipse fill="none" stroke="pink" cx="1949.51" cy="-162" rx="35.7887" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="1949.51" cy="-162" rx="35.7887" ry="18"/>
 <text text-anchor="middle" x="1949.51" y="-157.8" font-family="Times,serif" font-size="14.00">Athena</text>
 </g>
 <!-- Zeus&#45;&gt;Athena -->
 <g id="edge17" class="edge"><title>Zeus&#45;&gt;Athena</title>
-<path fill="none" stroke="black" d="M1180.97,-229.199C1208.53,-225.363 1252.96,-219.518 1291.51,-216 1563.73,-191.156 1638.36,-237.954 1905.51,-180 1908.19,-179.418 1910.93,-178.697 1913.65,-177.882"/>
-<polygon fill="black" stroke="black" points="1915.03,-181.114 1923.39,-174.612 1912.8,-174.478 1915.03,-181.114"/>
+<path fill="none" stroke="white" d="M1180.97,-229.199C1208.53,-225.363 1252.96,-219.518 1291.51,-216 1563.73,-191.156 1638.36,-237.954 1905.51,-180 1908.19,-179.418 1910.93,-178.697 1913.65,-177.882"/>
+<polygon fill="white" stroke="white" points="1915.03,-181.114 1923.39,-174.612 1912.8,-174.478 1915.03,-181.114"/>
 </g>
 <!-- Persephone -->
 <g id="node29" class="node"><title>Persephone</title>
-<ellipse fill="none" stroke="pink" cx="489.507" cy="-162" rx="50.7483" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="489.507" cy="-162" rx="50.7483" ry="18"/>
 <text text-anchor="middle" x="489.507" y="-157.8" font-family="Times,serif" font-size="14.00">Persephone</text>
 </g>
 <!-- Zeus&#45;&gt;Persephone -->
 <g id="edge13" class="edge"><title>Zeus&#45;&gt;Persephone</title>
-<path fill="none" stroke="black" d="M1127.59,-230.954C1017.67,-222.56 606.003,-190.693 548.507,-180 544.322,-179.222 540.006,-178.272 535.703,-177.224"/>
-<polygon fill="black" stroke="black" points="536.312,-173.766 525.752,-174.634 534.548,-180.54 536.312,-173.766"/>
+<path fill="none" stroke="white" d="M1127.59,-230.954C1017.67,-222.56 606.003,-190.693 548.507,-180 544.322,-179.222 540.006,-178.272 535.703,-177.224"/>
+<polygon fill="white" stroke="white" points="536.312,-173.766 525.752,-174.634 534.548,-180.54 536.312,-173.766"/>
 </g>
 <!-- Enyo -->
 <g id="node32" class="node"><title>Enyo</title>
-<ellipse fill="none" stroke="pink" cx="1192.51" cy="-162" rx="28.5497" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="1192.51" cy="-162" rx="28.5497" ry="18"/>
 <text text-anchor="middle" x="1192.51" y="-157.8" font-family="Times,serif" font-size="14.00">Enyo</text>
 </g>
 <!-- Zeus&#45;&gt;Enyo -->
 <g id="edge42" class="edge"><title>Zeus&#45;&gt;Enyo</title>
-<path fill="none" stroke="black" d="M1163.32,-216.765C1167.93,-208.283 1173.66,-197.714 1178.83,-188.197"/>
-<polygon fill="black" stroke="black" points="1182.05,-189.606 1183.74,-179.147 1175.89,-186.266 1182.05,-189.606"/>
+<path fill="none" stroke="white" d="M1163.32,-216.765C1167.93,-208.283 1173.66,-197.714 1178.83,-188.197"/>
+<polygon fill="white" stroke="white" points="1182.05,-189.606 1183.74,-179.147 1175.89,-186.266 1182.05,-189.606"/>
 </g>
 <!-- Eileithyia -->
 <g id="node33" class="node"><title>Eileithyia</title>
-<ellipse fill="none" stroke="pink" cx="953.507" cy="-162" rx="44.475" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="953.507" cy="-162" rx="44.475" ry="18"/>
 <text text-anchor="middle" x="953.507" y="-157.8" font-family="Times,serif" font-size="14.00">Eileithyia</text>
 </g>
 <!-- Zeus&#45;&gt;Eileithyia -->
 <g id="edge40" class="edge"><title>Zeus&#45;&gt;Eileithyia</title>
-<path fill="none" stroke="black" d="M1130.66,-224.695C1097.45,-213.128 1036.73,-191.984 995.754,-177.713"/>
-<polygon fill="black" stroke="black" points="996.898,-174.405 986.303,-174.421 994.596,-181.016 996.898,-174.405"/>
+<path fill="none" stroke="white" d="M1130.66,-224.695C1097.45,-213.128 1036.73,-191.984 995.754,-177.713"/>
+<polygon fill="white" stroke="white" points="996.898,-174.405 986.303,-174.421 994.596,-181.016 996.898,-174.405"/>
 </g>
 <!-- Eris -->
 <g id="node34" class="node"><title>Eris</title>
-<ellipse fill="none" stroke="pink" cx="1042.51" cy="-162" rx="27" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="1042.51" cy="-162" rx="27" ry="18"/>
 <text text-anchor="middle" x="1042.51" y="-157.8" font-family="Times,serif" font-size="14.00">Eris</text>
 </g>
 <!-- Zeus&#45;&gt;Eris -->
 <g id="edge38" class="edge"><title>Zeus&#45;&gt;Eris</title>
-<path fill="none" stroke="black" d="M1135.25,-220.967C1117.27,-209.73 1090.25,-192.838 1070,-180.184"/>
-<polygon fill="black" stroke="black" points="1071.84,-177.208 1061.51,-174.876 1068.13,-183.144 1071.84,-177.208"/>
+<path fill="none" stroke="white" d="M1135.25,-220.967C1117.27,-209.73 1090.25,-192.838 1070,-180.184"/>
+<polygon fill="white" stroke="white" points="1071.84,-177.208 1061.51,-174.876 1068.13,-183.144 1071.84,-177.208"/>
 </g>
 <!-- Hebe -->
 <g id="node35" class="node"><title>Hebe</title>
-<ellipse fill="none" stroke="pink" cx="1116.51" cy="-162" rx="28.5325" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="1116.51" cy="-162" rx="28.5325" ry="18"/>
 <text text-anchor="middle" x="1116.51" y="-157.8" font-family="Times,serif" font-size="14.00">Hebe</text>
 </g>
 <!-- Zeus&#45;&gt;Hebe -->
 <g id="edge36" class="edge"><title>Zeus&#45;&gt;Hebe</title>
-<path fill="none" stroke="black" d="M1145.69,-216.765C1141.09,-208.283 1135.35,-197.714 1130.19,-188.197"/>
-<polygon fill="black" stroke="black" points="1133.12,-186.266 1125.27,-179.147 1126.97,-189.606 1133.12,-186.266"/>
+<path fill="none" stroke="white" d="M1145.69,-216.765C1141.09,-208.283 1135.35,-197.714 1130.19,-188.197"/>
+<polygon fill="white" stroke="white" points="1133.12,-186.266 1125.27,-179.147 1126.97,-189.606 1133.12,-186.266"/>
 </g>
 <!-- Tyche -->
 <g id="node44" class="node"><title>Tyche</title>
-<ellipse fill="none" stroke="pink" cx="302.507" cy="-90" rx="31.6703" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="302.507" cy="-90" rx="31.6703" ry="18"/>
 <text text-anchor="middle" x="302.507" y="-85.8" font-family="Times,serif" font-size="14.00">Tyche</text>
 </g>
 <!-- Zeus&#45;&gt;Tyche -->
 <g id="edge70" class="edge"><title>Zeus&#45;&gt;Tyche</title>
-<path fill="none" stroke="black" d="M1127.37,-230.977C1032.78,-223.79 721.201,-198.903 680.507,-180 659.408,-170.199 663.567,-153.886 642.507,-144 520.946,-86.9339 472.261,-142.608 342.507,-108 340.17,-107.377 337.79,-106.643 335.416,-105.836"/>
-<polygon fill="black" stroke="black" points="336.398,-102.465 325.806,-102.203 333.923,-109.013 336.398,-102.465"/>
+<path fill="none" stroke="white" d="M1127.37,-230.977C1032.78,-223.79 721.201,-198.903 680.507,-180 659.408,-170.199 663.567,-153.886 642.507,-144 520.946,-86.9339 472.261,-142.608 342.507,-108 340.17,-107.377 337.79,-106.643 335.416,-105.836"/>
+<polygon fill="white" stroke="white" points="336.398,-102.465 325.806,-102.203 333.923,-109.013 336.398,-102.465"/>
 </g>
 <!-- Eunomia -->
 <g id="node45" class="node"><title>Eunomia</title>
-<ellipse fill="none" stroke="pink" cx="1433.51" cy="-162" rx="42.0697" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="1433.51" cy="-162" rx="42.0697" ry="18"/>
 <text text-anchor="middle" x="1433.51" y="-157.8" font-family="Times,serif" font-size="14.00">Eunomia</text>
 </g>
 <!-- Zeus&#45;&gt;Eunomia -->
 <g id="edge72" class="edge"><title>Zeus&#45;&gt;Eunomia</title>
-<path fill="none" stroke="black" d="M1180.05,-227.465C1221.63,-218.335 1306.44,-199.213 1377.51,-180 1381.87,-178.82 1386.41,-177.536 1390.94,-176.22"/>
-<polygon fill="black" stroke="black" points="1392.14,-179.514 1400.74,-173.317 1390.15,-172.802 1392.14,-179.514"/>
+<path fill="none" stroke="white" d="M1180.05,-227.465C1221.63,-218.335 1306.44,-199.213 1377.51,-180 1381.87,-178.82 1386.41,-177.536 1390.94,-176.22"/>
+<polygon fill="white" stroke="white" points="1392.14,-179.514 1400.74,-173.317 1390.15,-172.802 1392.14,-179.514"/>
 </g>
 <!-- Aglaea -->
 <g id="node49" class="node"><title>Aglaea</title>
-<ellipse fill="none" stroke="pink" cx="1413.51" cy="-90" rx="35.2956" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="1413.51" cy="-90" rx="35.2956" ry="18"/>
 <text text-anchor="middle" x="1413.51" y="-85.8" font-family="Times,serif" font-size="14.00">Aglaea</text>
 </g>
 <!-- Zeus&#45;&gt;Aglaea -->
 <g id="edge78" class="edge"><title>Zeus&#45;&gt;Aglaea</title>
-<path fill="none" stroke="black" d="M1177.73,-224.38C1202.89,-214.727 1243.92,-198.053 1277.51,-180 1316.53,-159.026 1358.84,-130.302 1385.73,-111.223"/>
-<polygon fill="black" stroke="black" points="1387.8,-114.051 1393.9,-105.39 1383.73,-108.356 1387.8,-114.051"/>
+<path fill="none" stroke="white" d="M1177.73,-224.38C1202.89,-214.727 1243.92,-198.053 1277.51,-180 1316.53,-159.026 1358.84,-130.302 1385.73,-111.223"/>
+<polygon fill="white" stroke="white" points="1387.8,-114.051 1393.9,-105.39 1383.73,-108.356 1387.8,-114.051"/>
 </g>
 <!-- Euphrosyne -->
 <g id="node50" class="node"><title>Euphrosyne</title>
-<ellipse fill="none" stroke="pink" cx="1518.51" cy="-90" rx="52.202" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="1518.51" cy="-90" rx="52.202" ry="18"/>
 <text text-anchor="middle" x="1518.51" y="-85.8" font-family="Times,serif" font-size="14.00">Euphrosyne</text>
 </g>
 <!-- Zeus&#45;&gt;Euphrosyne -->
 <g id="edge80" class="edge"><title>Zeus&#45;&gt;Euphrosyne</title>
-<path fill="none" stroke="black" d="M1179.6,-226.815C1212.65,-218.257 1272.25,-201.408 1320.51,-180 1349.63,-167.078 1353.8,-157.826 1382.51,-144 1411.99,-129.8 1446.34,-116.439 1473.14,-106.685"/>
-<polygon fill="black" stroke="black" points="1474.42,-109.941 1482.65,-103.259 1472.05,-103.356 1474.42,-109.941"/>
+<path fill="none" stroke="white" d="M1179.6,-226.815C1212.65,-218.257 1272.25,-201.408 1320.51,-180 1349.63,-167.078 1353.8,-157.826 1382.51,-144 1411.99,-129.8 1446.34,-116.439 1473.14,-106.685"/>
+<polygon fill="white" stroke="white" points="1474.42,-109.941 1482.65,-103.259 1472.05,-103.356 1474.42,-109.941"/>
 </g>
 <!-- Thalia -->
 <g id="node51" class="node"><title>Thalia</title>
-<ellipse fill="none" stroke="pink" cx="1621.51" cy="-90" rx="32.8908" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="1621.51" cy="-90" rx="32.8908" ry="18"/>
 <text text-anchor="middle" x="1621.51" y="-85.8" font-family="Times,serif" font-size="14.00">Thalia</text>
 </g>
 <!-- Zeus&#45;&gt;Thalia -->
 <g id="edge82" class="edge"><title>Zeus&#45;&gt;Thalia</title>
-<path fill="none" stroke="black" d="M1181.04,-229.654C1254.57,-220.256 1457.32,-193.428 1484.51,-180 1505.37,-169.697 1503.64,-157.611 1522.51,-144 1542.89,-129.297 1567.85,-115.963 1587.6,-106.347"/>
-<polygon fill="black" stroke="black" points="1589.33,-109.403 1596.84,-101.935 1586.31,-103.086 1589.33,-109.403"/>
+<path fill="none" stroke="white" d="M1181.04,-229.654C1254.57,-220.256 1457.32,-193.428 1484.51,-180 1505.37,-169.697 1503.64,-157.611 1522.51,-144 1542.89,-129.297 1567.85,-115.963 1587.6,-106.347"/>
+<polygon fill="white" stroke="white" points="1589.33,-109.403 1596.84,-101.935 1586.31,-103.086 1589.33,-109.403"/>
 </g>
 <!-- Cronus -->
 <g id="node2" class="node"><title>Cronus</title>
-<ellipse fill="none" stroke="blue" cx="799.507" cy="-306" rx="35.8147" ry="18"/>
-<text text-anchor="middle" x="799.507" y="-301.8" font-family="Times,serif" font-size="14.00">Cronus</text>
+<ellipse fill="blue" stroke="white" cx="799.507" cy="-306" rx="35.8147" ry="18"/>
+<text text-anchor="middle" x="799.507" y="-301.8" font-family="Times,serif" font-size="14.00" fill="white">Cronus</text>
 </g>
 <!-- Cronus&#45;&gt;Zeus -->
 <g id="edge1" class="edge"><title>Cronus&#45;&gt;Zeus</title>
-<path fill="none" stroke="black" d="M832.269,-298.54C898.881,-285.405 1049.64,-255.677 1118.72,-242.057"/>
-<polygon fill="black" stroke="black" points="1119.56,-245.459 1128.69,-240.091 1118.2,-238.591 1119.56,-245.459"/>
+<path fill="none" stroke="white" d="M832.269,-298.54C898.881,-285.405 1049.64,-255.677 1118.72,-242.057"/>
+<polygon fill="white" stroke="white" points="1119.56,-245.459 1128.69,-240.091 1118.2,-238.591 1119.56,-245.459"/>
 </g>
 <!-- Poseidon -->
 <g id="node3" class="node"><title>Poseidon</title>
-<ellipse fill="none" stroke="blue" cx="213.507" cy="-234" rx="42.5715" ry="18"/>
-<text text-anchor="middle" x="213.507" y="-229.8" font-family="Times,serif" font-size="14.00">Poseidon</text>
+<ellipse fill="blue" stroke="white" cx="213.507" cy="-234" rx="42.5715" ry="18"/>
+<text text-anchor="middle" x="213.507" y="-229.8" font-family="Times,serif" font-size="14.00" fill="white">Poseidon</text>
 </g>
 <!-- Cronus&#45;&gt;Poseidon -->
 <g id="edge11" class="edge"><title>Cronus&#45;&gt;Poseidon</title>
-<path fill="none" stroke="black" d="M773.243,-293.635C767.189,-291.422 760.705,-289.368 754.507,-288 541.276,-240.928 478.625,-294.857 264.507,-252 261.063,-251.311 257.528,-250.456 254.005,-249.501"/>
-<polygon fill="black" stroke="black" points="254.772,-246.078 244.19,-246.591 252.783,-252.789 254.772,-246.078"/>
+<path fill="none" stroke="white" d="M773.243,-293.635C767.189,-291.422 760.705,-289.368 754.507,-288 541.276,-240.928 478.625,-294.857 264.507,-252 261.063,-251.311 257.528,-250.456 254.005,-249.501"/>
+<polygon fill="white" stroke="white" points="254.772,-246.078 244.19,-246.591 252.783,-252.789 254.772,-246.078"/>
 </g>
 <!-- Hades -->
 <g id="node7" class="node"><title>Hades</title>
-<ellipse fill="none" stroke="blue" cx="520.507" cy="-234" rx="32.415" ry="18"/>
-<text text-anchor="middle" x="520.507" y="-229.8" font-family="Times,serif" font-size="14.00">Hades</text>
+<ellipse fill="blue" stroke="white" cx="520.507" cy="-234" rx="32.415" ry="18"/>
+<text text-anchor="middle" x="520.507" y="-229.8" font-family="Times,serif" font-size="14.00" fill="white">Hades</text>
 </g>
 <!-- Cronus&#45;&gt;Hades -->
 <g id="edge7" class="edge"><title>Cronus&#45;&gt;Hades</title>
-<path fill="none" stroke="black" d="M772.638,-293.965C766.73,-291.788 760.459,-289.665 754.507,-288 670.477,-264.49 645.153,-276.845 561.507,-252 559.201,-251.315 556.848,-250.544 554.493,-249.719"/>
-<polygon fill="black" stroke="black" points="555.514,-246.363 544.922,-246.098 553.037,-252.91 555.514,-246.363"/>
+<path fill="none" stroke="white" d="M772.638,-293.965C766.73,-291.788 760.459,-289.665 754.507,-288 670.477,-264.49 645.153,-276.845 561.507,-252 559.201,-251.315 556.848,-250.544 554.493,-249.719"/>
+<polygon fill="white" stroke="white" points="555.514,-246.363 544.922,-246.098 553.037,-252.91 555.514,-246.363"/>
 </g>
 <!-- Chiron -->
 <g id="node11" class="node"><title>Chiron</title>
-<ellipse fill="none" stroke="blue" cx="1426.51" cy="-234" rx="34.8458" ry="18"/>
-<text text-anchor="middle" x="1426.51" y="-229.8" font-family="Times,serif" font-size="14.00">Chiron</text>
+<ellipse fill="blue" stroke="white" cx="1426.51" cy="-234" rx="34.8458" ry="18"/>
+<text text-anchor="middle" x="1426.51" y="-229.8" font-family="Times,serif" font-size="14.00" fill="white">Chiron</text>
 </g>
 <!-- Cronus&#45;&gt;Chiron -->
 <g id="edge44" class="edge"><title>Cronus&#45;&gt;Chiron</title>
-<path fill="none" stroke="black" d="M835.294,-305.277C927.503,-305.239 1180.22,-300.349 1383.51,-252 1386.13,-251.377 1388.8,-250.626 1391.46,-249.79"/>
-<polygon fill="black" stroke="black" points="1392.68,-253.072 1400.97,-246.476 1390.38,-246.461 1392.68,-253.072"/>
+<path fill="none" stroke="white" d="M835.294,-305.277C927.503,-305.239 1180.22,-300.349 1383.51,-252 1386.13,-251.377 1388.8,-250.626 1391.46,-249.79"/>
+<polygon fill="white" stroke="white" points="1392.68,-253.072 1400.97,-246.476 1390.38,-246.461 1392.68,-253.072"/>
 </g>
 <!-- Hestia -->
 <g id="node25" class="node"><title>Hestia</title>
-<ellipse fill="none" stroke="pink" cx="799.507" cy="-234" rx="32.8994" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="799.507" cy="-234" rx="32.8994" ry="18"/>
 <text text-anchor="middle" x="799.507" y="-229.8" font-family="Times,serif" font-size="14.00">Hestia</text>
 </g>
 <!-- Cronus&#45;&gt;Hestia -->
 <g id="edge9" class="edge"><title>Cronus&#45;&gt;Hestia</title>
-<path fill="none" stroke="black" d="M799.507,-287.697C799.507,-279.983 799.507,-270.712 799.507,-262.112"/>
-<polygon fill="black" stroke="black" points="803.007,-262.104 799.507,-252.104 796.007,-262.104 803.007,-262.104"/>
+<path fill="none" stroke="white" d="M799.507,-287.697C799.507,-279.983 799.507,-270.712 799.507,-262.112"/>
+<polygon fill="white" stroke="white" points="803.007,-262.104 799.507,-252.104 796.007,-262.104 803.007,-262.104"/>
 </g>
 <!-- Hera -->
 <g id="node27" class="node"><title>Hera</title>
-<ellipse fill="none" stroke="pink" cx="898.507" cy="-234" rx="27.0787" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="898.507" cy="-234" rx="27.0787" ry="18"/>
 <text text-anchor="middle" x="898.507" y="-229.8" font-family="Times,serif" font-size="14.00">Hera</text>
 </g>
 <!-- Cronus&#45;&gt;Hera -->
 <g id="edge3" class="edge"><title>Cronus&#45;&gt;Hera</title>
-<path fill="none" stroke="black" d="M819.541,-290.834C834.745,-280.084 855.78,-265.211 872.317,-253.518"/>
-<polygon fill="black" stroke="black" points="874.356,-256.363 880.5,-247.732 870.314,-250.648 874.356,-256.363"/>
+<path fill="none" stroke="white" d="M819.541,-290.834C834.745,-280.084 855.78,-265.211 872.317,-253.518"/>
+<polygon fill="white" stroke="white" points="874.356,-256.363 880.5,-247.732 870.314,-250.648 874.356,-256.363"/>
 </g>
 <!-- Demeter -->
 <g id="node30" class="node"><title>Demeter</title>
-<ellipse fill="none" stroke="pink" cx="314.507" cy="-234" rx="40.5989" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="314.507" cy="-234" rx="40.5989" ry="18"/>
 <text text-anchor="middle" x="314.507" y="-229.8" font-family="Times,serif" font-size="14.00">Demeter</text>
 </g>
 <!-- Cronus&#45;&gt;Demeter -->
 <g id="edge5" class="edge"><title>Cronus&#45;&gt;Demeter</title>
-<path fill="none" stroke="black" d="M773.224,-293.719C767.171,-291.503 760.692,-289.425 754.507,-288 584.452,-248.809 534.081,-288.87 363.507,-252 360.295,-251.306 357.002,-250.464 353.718,-249.53"/>
-<polygon fill="black" stroke="black" points="354.565,-246.129 343.977,-246.512 352.493,-252.815 354.565,-246.129"/>
+<path fill="none" stroke="white" d="M773.224,-293.719C767.171,-291.503 760.692,-289.425 754.507,-288 584.452,-248.809 534.081,-288.87 363.507,-252 360.295,-251.306 357.002,-250.464 353.718,-249.53"/>
+<polygon fill="white" stroke="white" points="354.565,-246.129 343.977,-246.512 352.493,-252.815 354.565,-246.129"/>
 </g>
 <!-- Triton -->
 <g id="node12" class="node"><title>Triton</title>
-<ellipse fill="none" stroke="blue" cx="216.507" cy="-162" rx="31.8094" ry="18"/>
-<text text-anchor="middle" x="216.507" y="-157.8" font-family="Times,serif" font-size="14.00">Triton</text>
+<ellipse fill="blue" stroke="white" cx="216.507" cy="-162" rx="31.8094" ry="18"/>
+<text text-anchor="middle" x="216.507" y="-157.8" font-family="Times,serif" font-size="14.00" fill="white">Triton</text>
 </g>
 <!-- Poseidon&#45;&gt;Triton -->
 <g id="edge51" class="edge"><title>Poseidon&#45;&gt;Triton</title>
-<path fill="none" stroke="black" d="M214.249,-215.697C214.579,-207.983 214.977,-198.712 215.345,-190.112"/>
-<polygon fill="black" stroke="black" points="218.843,-190.245 215.774,-180.104 211.849,-189.945 218.843,-190.245"/>
+<path fill="none" stroke="white" d="M214.249,-215.697C214.579,-207.983 214.977,-198.712 215.345,-190.112"/>
+<polygon fill="white" stroke="white" points="218.843,-190.245 215.774,-180.104 211.849,-189.945 218.843,-190.245"/>
 </g>
 <!-- Despoina -->
 <g id="node47" class="node"><title>Despoina</title>
-<ellipse fill="none" stroke="pink" cx="43.5073" cy="-162" rx="43.5146" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="43.5073" cy="-162" rx="43.5146" ry="18"/>
 <text text-anchor="middle" x="43.5073" y="-157.8" font-family="Times,serif" font-size="14.00">Despoina</text>
 </g>
 <!-- Poseidon&#45;&gt;Despoina -->
 <g id="edge75" class="edge"><title>Poseidon&#45;&gt;Despoina</title>
-<path fill="none" stroke="black" d="M183.896,-220.807C155.912,-209.284 113.742,-191.92 82.9246,-179.231"/>
-<polygon fill="black" stroke="black" points="83.9295,-175.859 73.3501,-175.288 81.2643,-182.332 83.9295,-175.859"/>
+<path fill="none" stroke="white" d="M183.896,-220.807C155.912,-209.284 113.742,-191.92 82.9246,-179.231"/>
+<polygon fill="white" stroke="white" points="83.9295,-175.859 73.3501,-175.288 81.2643,-182.332 83.9295,-175.859"/>
 </g>
 <!-- Arion -->
 <g id="node48" class="node"><title>Arion</title>
-<ellipse fill="none" stroke="blue" cx="135.507" cy="-162" rx="30.9793" ry="18"/>
-<text text-anchor="middle" x="135.507" y="-157.8" font-family="Times,serif" font-size="14.00">Arion</text>
+<ellipse fill="blue" stroke="white" cx="135.507" cy="-162" rx="30.9793" ry="18"/>
+<text text-anchor="middle" x="135.507" y="-157.8" font-family="Times,serif" font-size="14.00" fill="white">Arion</text>
 </g>
 <!-- Poseidon&#45;&gt;Arion -->
 <g id="edge77" class="edge"><title>Poseidon&#45;&gt;Arion</title>
-<path fill="none" stroke="black" d="M196.197,-217.465C185.299,-207.685 171.088,-194.931 159.157,-184.225"/>
-<polygon fill="black" stroke="black" points="161.485,-181.61 151.704,-177.536 156.809,-186.82 161.485,-181.61"/>
+<path fill="none" stroke="white" d="M196.197,-217.465C185.299,-207.685 171.088,-194.931 159.157,-184.225"/>
+<polygon fill="white" stroke="white" points="161.485,-181.61 151.704,-177.536 156.809,-186.82 161.485,-181.61"/>
 </g>
 <!-- Eros -->
 <g id="node36" class="node"><title>Eros</title>
-<ellipse fill="none" stroke="blue" cx="824.507" cy="-90" rx="27" ry="18"/>
-<text text-anchor="middle" x="824.507" y="-85.8" font-family="Times,serif" font-size="14.00">Eros</text>
+<ellipse fill="blue" stroke="white" cx="824.507" cy="-90" rx="27" ry="18"/>
+<text text-anchor="middle" x="824.507" y="-85.8" font-family="Times,serif" font-size="14.00" fill="white">Eros</text>
 </g>
 <!-- Ares&#45;&gt;Eros -->
 <g id="edge54" class="edge"><title>Ares&#45;&gt;Eros</title>
-<path fill="none" stroke="black" d="M826.013,-143.697C825.793,-135.983 825.528,-126.712 825.282,-118.112"/>
-<polygon fill="black" stroke="black" points="828.78,-118 824.996,-108.104 821.783,-118.2 828.78,-118"/>
+<path fill="none" stroke="white" d="M826.013,-143.697C825.793,-135.983 825.528,-126.712 825.282,-118.112"/>
+<polygon fill="white" stroke="white" points="828.78,-118 824.996,-108.104 821.783,-118.2 828.78,-118"/>
 </g>
 <!-- Phobos -->
 <g id="node37" class="node"><title>Phobos</title>
-<ellipse fill="none" stroke="blue" cx="905.507" cy="-90" rx="36.3078" ry="18"/>
-<text text-anchor="middle" x="905.507" y="-85.8" font-family="Times,serif" font-size="14.00">Phobos</text>
+<ellipse fill="blue" stroke="white" cx="905.507" cy="-90" rx="36.3078" ry="18"/>
+<text text-anchor="middle" x="905.507" y="-85.8" font-family="Times,serif" font-size="14.00" fill="white">Phobos</text>
 </g>
 <!-- Ares&#45;&gt;Phobos -->
 <g id="edge56" class="edge"><title>Ares&#45;&gt;Phobos</title>
-<path fill="none" stroke="black" d="M842.115,-147.17C853.212,-137.337 868.339,-123.934 881.033,-112.686"/>
-<polygon fill="black" stroke="black" points="883.401,-115.264 888.564,-106.013 878.759,-110.025 883.401,-115.264"/>
+<path fill="none" stroke="white" d="M842.115,-147.17C853.212,-137.337 868.339,-123.934 881.033,-112.686"/>
+<polygon fill="white" stroke="white" points="883.401,-115.264 888.564,-106.013 878.759,-110.025 883.401,-115.264"/>
 </g>
 <!-- Deimos -->
 <g id="node38" class="node"><title>Deimos</title>
-<ellipse fill="none" stroke="blue" cx="997.507" cy="-90" rx="37.7352" ry="18"/>
-<text text-anchor="middle" x="997.507" y="-85.8" font-family="Times,serif" font-size="14.00">Deimos</text>
+<ellipse fill="blue" stroke="white" cx="997.507" cy="-90" rx="37.7352" ry="18"/>
+<text text-anchor="middle" x="997.507" y="-85.8" font-family="Times,serif" font-size="14.00" fill="white">Deimos</text>
 </g>
 <!-- Ares&#45;&gt;Deimos -->
 <g id="edge58" class="edge"><title>Ares&#45;&gt;Deimos</title>
-<path fill="none" stroke="black" d="M849.054,-151.623C855.049,-149.138 861.521,-146.461 867.507,-144 898.789,-131.138 934.357,-116.647 960.372,-106.072"/>
-<polygon fill="black" stroke="black" points="961.899,-109.229 969.846,-102.222 959.264,-102.744 961.899,-109.229"/>
+<path fill="none" stroke="white" d="M849.054,-151.623C855.049,-149.138 861.521,-146.461 867.507,-144 898.789,-131.138 934.357,-116.647 960.372,-106.072"/>
+<polygon fill="white" stroke="white" points="961.899,-109.229 969.846,-102.222 959.264,-102.744 961.899,-109.229"/>
 </g>
 <!-- Harmonia -->
 <g id="node39" class="node"><title>Harmonia</title>
-<ellipse fill="none" stroke="pink" cx="1098.51" cy="-90" rx="45.4355" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="1098.51" cy="-90" rx="45.4355" ry="18"/>
 <text text-anchor="middle" x="1098.51" y="-85.8" font-family="Times,serif" font-size="14.00">Harmonia</text>
 </g>
 <!-- Ares&#45;&gt;Harmonia -->
 <g id="edge60" class="edge"><title>Ares&#45;&gt;Harmonia</title>
-<path fill="none" stroke="black" d="M848.352,-151.031C854.464,-148.493 861.17,-145.938 867.507,-144 944.273,-120.518 966.782,-128.08 1044.51,-108 1048.05,-107.086 1051.7,-106.078 1055.35,-105.024"/>
-<polygon fill="black" stroke="black" points="1056.38,-108.37 1064.96,-102.157 1054.38,-101.662 1056.38,-108.37"/>
+<path fill="none" stroke="white" d="M848.352,-151.031C854.464,-148.493 861.17,-145.938 867.507,-144 944.273,-120.518 966.782,-128.08 1044.51,-108 1048.05,-107.086 1051.7,-106.078 1055.35,-105.024"/>
+<polygon fill="white" stroke="white" points="1056.38,-108.37 1064.96,-102.157 1054.38,-101.662 1056.38,-108.37"/>
 </g>
 <!-- Adrestia -->
 <g id="node40" class="node"><title>Adrestia</title>
-<ellipse fill="none" stroke="Pink" cx="545.507" cy="-90" rx="40.1317" ry="18"/>
-<text text-anchor="middle" x="545.507" y="-85.8" font-family="Times,serif" font-size="14.00">Adrestia</text>
+<ellipse fill="Pink" stroke="white" cx="545.507" cy="-90" rx="40.1317" ry="18"/>
+<text text-anchor="middle" x="545.507" y="-85.8" font-family="Times,serif" font-size="14.00" fill="white">Adrestia</text>
 </g>
 <!-- Ares&#45;&gt;Adrestia -->
 <g id="edge64" class="edge"><title>Ares&#45;&gt;Adrestia</title>
-<path fill="none" stroke="black" d="M805.94,-150.169C800.986,-147.875 795.639,-145.652 790.507,-144 706.199,-116.862 680.149,-130.581 594.507,-108 591.373,-107.174 588.151,-106.243 584.928,-105.255"/>
-<polygon fill="black" stroke="black" points="585.936,-101.902 575.344,-102.161 583.785,-108.564 585.936,-101.902"/>
+<path fill="none" stroke="white" d="M805.94,-150.169C800.986,-147.875 795.639,-145.652 790.507,-144 706.199,-116.862 680.149,-130.581 594.507,-108 591.373,-107.174 588.151,-106.243 584.928,-105.255"/>
+<polygon fill="white" stroke="white" points="585.936,-101.902 575.344,-102.161 583.785,-108.564 585.936,-101.902"/>
 </g>
 <!-- Anteros -->
 <g id="node41" class="node"><title>Anteros</title>
-<ellipse fill="none" stroke="blue" cx="641.507" cy="-90" rx="38.211" ry="18"/>
-<text text-anchor="middle" x="641.507" y="-85.8" font-family="Times,serif" font-size="14.00">Anteros</text>
+<ellipse fill="blue" stroke="white" cx="641.507" cy="-90" rx="38.211" ry="18"/>
+<text text-anchor="middle" x="641.507" y="-85.8" font-family="Times,serif" font-size="14.00" fill="white">Anteros</text>
 </g>
 <!-- Ares&#45;&gt;Anteros -->
 <g id="edge62" class="edge"><title>Ares&#45;&gt;Anteros</title>
-<path fill="none" stroke="black" d="M805.347,-150.569C800.512,-148.308 795.365,-145.998 790.507,-144 746.048,-125.712 733.778,-124.176 688.507,-108 685.826,-107.042 683.06,-106.05 680.275,-105.049"/>
-<polygon fill="black" stroke="black" points="681.423,-101.743 670.828,-101.645 679.05,-108.328 681.423,-101.743"/>
+<path fill="none" stroke="white" d="M805.347,-150.569C800.512,-148.308 795.365,-145.998 790.507,-144 746.048,-125.712 733.778,-124.176 688.507,-108 685.826,-107.042 683.06,-106.05 680.275,-105.049"/>
+<polygon fill="white" stroke="white" points="681.423,-101.743 670.828,-101.645 679.05,-108.328 681.423,-101.743"/>
 </g>
 <!-- Himeros -->
 <g id="node42" class="node"><title>Himeros</title>
-<ellipse fill="none" stroke="blue" cx="738.507" cy="-90" rx="40.6248" ry="18"/>
-<text text-anchor="middle" x="738.507" y="-85.8" font-family="Times,serif" font-size="14.00">Himeros</text>
+<ellipse fill="blue" stroke="white" cx="738.507" cy="-90" rx="40.6248" ry="18"/>
+<text text-anchor="middle" x="738.507" y="-85.8" font-family="Times,serif" font-size="14.00" fill="white">Himeros</text>
 </g>
 <!-- Ares&#45;&gt;Himeros -->
 <g id="edge66" class="edge"><title>Ares&#45;&gt;Himeros</title>
-<path fill="none" stroke="black" d="M809.54,-147.503C797.098,-137.606 779.948,-123.964 765.617,-112.564"/>
-<polygon fill="black" stroke="black" points="767.566,-109.643 757.561,-106.157 763.209,-115.121 767.566,-109.643"/>
+<path fill="none" stroke="white" d="M809.54,-147.503C797.098,-137.606 779.948,-123.964 765.617,-112.564"/>
+<polygon fill="white" stroke="white" points="767.566,-109.643 757.561,-106.157 763.209,-115.121 767.566,-109.643"/>
 </g>
 <!-- Asclepius -->
 <g id="node57" class="node"><title>Asclepius</title>
-<ellipse fill="none" stroke="blue" cx="1734.51" cy="-90" rx="44.9682" ry="18"/>
-<text text-anchor="middle" x="1734.51" y="-85.8" font-family="Times,serif" font-size="14.00">Asclepius</text>
+<ellipse fill="blue" stroke="white" cx="1734.51" cy="-90" rx="44.9682" ry="18"/>
+<text text-anchor="middle" x="1734.51" y="-85.8" font-family="Times,serif" font-size="14.00" fill="white">Asclepius</text>
 </g>
 <!-- Apollo&#45;&gt;Asclepius -->
 <g id="edge92" class="edge"><title>Apollo&#45;&gt;Asclepius</title>
-<path fill="none" stroke="black" d="M1677.35,-145.811C1687.09,-136.467 1699.76,-124.315 1710.7,-113.827"/>
-<polygon fill="black" stroke="black" points="1713.14,-116.336 1717.94,-106.888 1708.3,-111.283 1713.14,-116.336"/>
+<path fill="none" stroke="white" d="M1677.35,-145.811C1687.09,-136.467 1699.76,-124.315 1710.7,-113.827"/>
+<polygon fill="white" stroke="white" points="1713.14,-116.336 1717.94,-106.888 1708.3,-111.283 1713.14,-116.336"/>
 </g>
 <!-- Hades&#45;&gt;Zagreus -->
 <g id="edge27" class="edge"><title>Hades&#45;&gt;Zagreus</title>
-<path fill="none" stroke="black" d="M495.397,-222.489C460.477,-207.838 400.997,-182.755 396.507,-180 375.265,-166.962 375.004,-156.614 353.507,-144 344.536,-138.736 291.808,-119.107 253.949,-105.279"/>
-<polygon fill="black" stroke="black" points="254.791,-101.861 244.198,-101.725 252.394,-108.438 254.791,-101.861"/>
+<path fill="none" stroke="white" d="M495.397,-222.489C460.477,-207.838 400.997,-182.755 396.507,-180 375.265,-166.962 375.004,-156.614 353.507,-144 344.536,-138.736 291.808,-119.107 253.949,-105.279"/>
+<polygon fill="white" stroke="white" points="254.791,-101.861 244.198,-101.725 252.394,-108.438 254.791,-101.861"/>
 </g>
 <!-- Macaria -->
 <g id="node14" class="node"><title>Macaria</title>
-<ellipse fill="none" stroke="pink" cx="305.507" cy="-162" rx="39.1454" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="305.507" cy="-162" rx="39.1454" ry="18"/>
 <text text-anchor="middle" x="305.507" y="-157.8" font-family="Times,serif" font-size="14.00">Macaria</text>
 </g>
 <!-- Hades&#45;&gt;Macaria -->
 <g id="edge50" class="edge"><title>Hades&#45;&gt;Macaria</title>
-<path fill="none" stroke="black" d="M495.952,-222.333C490.574,-220.133 484.881,-217.908 479.507,-216 426.633,-197.23 412.112,-196.569 358.507,-180 354.509,-178.764 350.346,-177.46 346.189,-176.145"/>
-<polygon fill="black" stroke="black" points="347.171,-172.785 336.581,-173.088 345.049,-179.456 347.171,-172.785"/>
+<path fill="none" stroke="white" d="M495.952,-222.333C490.574,-220.133 484.881,-217.908 479.507,-216 426.633,-197.23 412.112,-196.569 358.507,-180 354.509,-178.764 350.346,-177.46 346.189,-176.145"/>
+<polygon fill="white" stroke="white" points="347.171,-172.785 336.581,-173.088 345.049,-179.456 347.171,-172.785"/>
 </g>
 <!-- Hermaphroditus -->
 <g id="node43" class="node"><title>Hermaphroditus</title>
-<ellipse fill="none" stroke="purple" cx="419.507" cy="-90" rx="67.6529" ry="18"/>
-<text text-anchor="middle" x="419.507" y="-85.8" font-family="Times,serif" font-size="14.00">Hermaphroditus</text>
+<ellipse fill="purple" stroke="white" cx="419.507" cy="-90" rx="67.6529" ry="18"/>
+<text text-anchor="middle" x="419.507" y="-85.8" font-family="Times,serif" font-size="14.00" fill="white">Hermaphroditus</text>
 </g>
 <!-- Hermes&#45;&gt;Hermaphroditus -->
 <g id="edge68" class="edge"><title>Hermes&#45;&gt;Hermaphroditus</title>
-<path fill="none" stroke="black" d="M567.62,-149.908C540.007,-138.926 497.268,-121.928 464.785,-109.008"/>
-<polygon fill="black" stroke="black" points="466.075,-105.755 455.489,-105.311 463.488,-112.259 466.075,-105.755"/>
+<path fill="none" stroke="white" d="M567.62,-149.908C540.007,-138.926 497.268,-121.928 464.785,-109.008"/>
+<polygon fill="white" stroke="white" points="466.075,-105.755 455.489,-105.311 463.488,-112.259 466.075,-105.755"/>
 </g>
 <!-- Hermes&#45;&gt;Tyche -->
 <g id="edge71" class="edge"><title>Hermes&#45;&gt;Tyche</title>
-<path fill="none" stroke="black" d="M567.55,-149.749C561.655,-147.636 555.426,-145.594 549.507,-144 459.34,-119.714 432.068,-134.437 342.507,-108 340.248,-107.333 337.945,-106.576 335.642,-105.761"/>
-<polygon fill="black" stroke="black" points="336.882,-102.488 326.292,-102.163 334.368,-109.021 336.882,-102.488"/>
+<path fill="none" stroke="white" d="M567.55,-149.749C561.655,-147.636 555.426,-145.594 549.507,-144 459.34,-119.714 432.068,-134.437 342.507,-108 340.248,-107.333 337.945,-106.576 335.642,-105.761"/>
+<polygon fill="white" stroke="white" points="336.882,-102.488 326.292,-102.163 334.368,-109.021 336.882,-102.488"/>
 </g>
 <!-- Uranus -->
 <g id="node10" class="node"><title>Uranus</title>
-<ellipse fill="none" stroke="blue" cx="717.507" cy="-378" rx="35.7974" ry="18"/>
-<text text-anchor="middle" x="717.507" y="-373.8" font-family="Times,serif" font-size="14.00">Uranus</text>
+<ellipse fill="blue" stroke="white" cx="717.507" cy="-378" rx="35.7974" ry="18"/>
+<text text-anchor="middle" x="717.507" y="-373.8" font-family="Times,serif" font-size="14.00" fill="white">Uranus</text>
 </g>
 <!-- Uranus&#45;&gt;Cronus -->
 <g id="edge46" class="edge"><title>Uranus&#45;&gt;Cronus</title>
-<path fill="none" stroke="black" d="M734.897,-362.155C746.313,-352.41 761.432,-339.503 774.175,-328.626"/>
-<polygon fill="black" stroke="black" points="776.809,-330.978 782.142,-321.824 772.264,-325.654 776.809,-330.978"/>
+<path fill="none" stroke="white" d="M734.897,-362.155C746.313,-352.41 761.432,-339.503 774.175,-328.626"/>
+<polygon fill="white" stroke="white" points="776.809,-330.978 782.142,-321.824 772.264,-325.654 776.809,-330.978"/>
 </g>
 <!-- Rhea -->
 <g id="node31" class="node"><title>Rhea</title>
-<ellipse fill="none" stroke="pink" cx="717.507" cy="-306" rx="28.0565" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="717.507" cy="-306" rx="28.0565" ry="18"/>
 <text text-anchor="middle" x="717.507" y="-301.8" font-family="Times,serif" font-size="14.00">Rhea</text>
 </g>
 <!-- Uranus&#45;&gt;Rhea -->
 <g id="edge48" class="edge"><title>Uranus&#45;&gt;Rhea</title>
-<path fill="none" stroke="black" d="M717.507,-359.697C717.507,-351.983 717.507,-342.712 717.507,-334.112"/>
-<polygon fill="black" stroke="black" points="721.007,-334.104 717.507,-324.104 714.007,-334.104 721.007,-334.104"/>
+<path fill="none" stroke="white" d="M717.507,-359.697C717.507,-351.983 717.507,-342.712 717.507,-334.112"/>
+<polygon fill="white" stroke="white" points="721.007,-334.104 717.507,-324.104 714.007,-334.104 721.007,-334.104"/>
 </g>
 <!-- Amphitrite -->
 <g id="node13" class="node"><title>Amphitrite</title>
-<ellipse fill="none" stroke="pink" cx="421.507" cy="-234" rx="48.8273" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="421.507" cy="-234" rx="48.8273" ry="18"/>
 <text text-anchor="middle" x="421.507" y="-229.8" font-family="Times,serif" font-size="14.00">Amphitrite</text>
 </g>
 <!-- Amphitrite&#45;&gt;Triton -->
 <g id="edge52" class="edge"><title>Amphitrite&#45;&gt;Triton</title>
-<path fill="none" stroke="black" d="M384.742,-222.046C351.313,-211.868 300.749,-195.923 257.507,-180 255.25,-179.169 252.933,-178.287 250.606,-177.381"/>
-<polygon fill="black" stroke="black" points="251.681,-174.041 241.097,-173.572 249.078,-180.539 251.681,-174.041"/>
+<path fill="none" stroke="white" d="M384.742,-222.046C351.313,-211.868 300.749,-195.923 257.507,-180 255.25,-179.169 252.933,-178.287 250.606,-177.381"/>
+<polygon fill="white" stroke="white" points="251.681,-174.041 241.097,-173.572 249.078,-180.539 251.681,-174.041"/>
 </g>
 <!-- Gaia -->
 <g id="node15" class="node"><title>Gaia</title>
-<ellipse fill="none" stroke="pink" cx="798.507" cy="-378" rx="27" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="798.507" cy="-378" rx="27" ry="18"/>
 <text text-anchor="middle" x="798.507" y="-373.8" font-family="Times,serif" font-size="14.00">Gaia</text>
 </g>
 <!-- Gaia&#45;&gt;Cronus -->
 <g id="edge47" class="edge"><title>Gaia&#45;&gt;Cronus</title>
-<path fill="none" stroke="black" d="M798.755,-359.697C798.865,-351.983 798.997,-342.712 799.12,-334.112"/>
-<polygon fill="black" stroke="black" points="802.62,-334.153 799.263,-324.104 795.62,-334.053 802.62,-334.153"/>
+<path fill="none" stroke="white" d="M798.755,-359.697C798.865,-351.983 798.997,-342.712 799.12,-334.112"/>
+<polygon fill="white" stroke="white" points="802.62,-334.153 799.263,-324.104 795.62,-334.053 802.62,-334.153"/>
 </g>
 <!-- Gaia&#45;&gt;Rhea -->
 <g id="edge49" class="edge"><title>Gaia&#45;&gt;Rhea</title>
-<path fill="none" stroke="black" d="M782.504,-363.17C770.821,-353.074 754.781,-339.212 741.559,-327.785"/>
-<polygon fill="black" stroke="black" points="743.609,-324.931 733.754,-321.041 739.032,-330.227 743.609,-324.931"/>
+<path fill="none" stroke="white" d="M782.504,-363.17C770.821,-353.074 754.781,-339.212 741.559,-327.785"/>
+<polygon fill="white" stroke="white" points="743.609,-324.931 733.754,-321.041 739.032,-330.227 743.609,-324.931"/>
 </g>
 <!-- Philyra -->
 <g id="node16" class="node"><title>Philyra</title>
-<ellipse fill="none" stroke="pink" cx="1426.51" cy="-306" rx="35.806" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="1426.51" cy="-306" rx="35.806" ry="18"/>
 <text text-anchor="middle" x="1426.51" y="-301.8" font-family="Times,serif" font-size="14.00">Philyra</text>
 </g>
 <!-- Philyra&#45;&gt;Chiron -->
 <g id="edge45" class="edge"><title>Philyra&#45;&gt;Chiron</title>
-<path fill="none" stroke="black" d="M1426.51,-287.697C1426.51,-279.983 1426.51,-270.712 1426.51,-262.112"/>
-<polygon fill="black" stroke="black" points="1430.01,-262.104 1426.51,-252.104 1423.01,-262.104 1430.01,-262.104"/>
+<path fill="none" stroke="white" d="M1426.51,-287.697C1426.51,-279.983 1426.51,-270.712 1426.51,-262.112"/>
+<polygon fill="white" stroke="white" points="1430.01,-262.104 1426.51,-252.104 1423.01,-262.104 1430.01,-262.104"/>
 </g>
 <!-- Semele -->
 <g id="node19" class="node"><title>Semele</title>
-<ellipse fill="none" stroke="pink" cx="1852.51" cy="-234" rx="36.2732" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="1852.51" cy="-234" rx="36.2732" ry="18"/>
 <text text-anchor="middle" x="1852.51" y="-229.8" font-family="Times,serif" font-size="14.00">Semele</text>
 </g>
 <!-- Semele&#45;&gt;Dionysus -->
 <g id="edge33" class="edge"><title>Semele&#45;&gt;Dionysus</title>
-<path fill="none" stroke="black" d="M1852.51,-215.697C1852.51,-207.983 1852.51,-198.712 1852.51,-190.112"/>
-<polygon fill="black" stroke="black" points="1856.01,-190.104 1852.51,-180.104 1849.01,-190.104 1856.01,-190.104"/>
+<path fill="none" stroke="white" d="M1852.51,-215.697C1852.51,-207.983 1852.51,-198.712 1852.51,-190.112"/>
+<polygon fill="white" stroke="white" points="1856.01,-190.104 1852.51,-180.104 1849.01,-190.104 1856.01,-190.104"/>
 </g>
 <!-- Maia -->
 <g id="node20" class="node"><title>Maia</title>
-<ellipse fill="none" stroke="pink" cx="598.507" cy="-234" rx="28.0565" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="598.507" cy="-234" rx="28.0565" ry="18"/>
 <text text-anchor="middle" x="598.507" y="-229.8" font-family="Times,serif" font-size="14.00">Maia</text>
 </g>
 <!-- Maia&#45;&gt;Hermes -->
 <g id="edge31" class="edge"><title>Maia&#45;&gt;Hermes</title>
-<path fill="none" stroke="black" d="M597.766,-215.697C597.435,-207.983 597.038,-198.712 596.669,-190.112"/>
-<polygon fill="black" stroke="black" points="600.165,-189.945 596.24,-180.104 593.172,-190.245 600.165,-189.945"/>
+<path fill="none" stroke="white" d="M597.766,-215.697C597.435,-207.983 597.038,-198.712 596.669,-190.112"/>
+<polygon fill="white" stroke="white" points="600.165,-189.945 596.24,-180.104 593.172,-190.245 600.165,-189.945"/>
 </g>
 <!-- Aphrodite&#45;&gt;Eros -->
 <g id="edge53" class="edge"><title>Aphrodite&#45;&gt;Eros</title>
-<path fill="none" stroke="black" d="M755.259,-145.465C768.321,-135.191 785.555,-121.637 799.562,-110.62"/>
-<polygon fill="black" stroke="black" points="802.103,-113.074 807.8,-104.141 797.776,-107.572 802.103,-113.074"/>
+<path fill="none" stroke="white" d="M755.259,-145.465C768.321,-135.191 785.555,-121.637 799.562,-110.62"/>
+<polygon fill="white" stroke="white" points="802.103,-113.074 807.8,-104.141 797.776,-107.572 802.103,-113.074"/>
 </g>
 <!-- Aphrodite&#45;&gt;Phobos -->
 <g id="edge55" class="edge"><title>Aphrodite&#45;&gt;Phobos</title>
-<path fill="none" stroke="black" d="M765.9,-148.485C794.769,-136.598 838.213,-118.709 868.959,-106.049"/>
-<polygon fill="black" stroke="black" points="870.546,-109.181 878.46,-102.137 867.881,-102.708 870.546,-109.181"/>
+<path fill="none" stroke="white" d="M765.9,-148.485C794.769,-136.598 838.213,-118.709 868.959,-106.049"/>
+<polygon fill="white" stroke="white" points="870.546,-109.181 878.46,-102.137 867.881,-102.708 870.546,-109.181"/>
 </g>
 <!-- Aphrodite&#45;&gt;Deimos -->
 <g id="edge57" class="edge"><title>Aphrodite&#45;&gt;Deimos</title>
-<path fill="none" stroke="black" d="M769.714,-149.972C776.572,-147.89 783.747,-145.802 790.507,-144 860.936,-125.223 880.542,-128.436 950.507,-108 953.412,-107.152 956.398,-106.219 959.388,-105.24"/>
-<polygon fill="black" stroke="black" points="960.529,-108.549 968.863,-102.007 958.269,-101.924 960.529,-108.549"/>
+<path fill="none" stroke="white" d="M769.714,-149.972C776.572,-147.89 783.747,-145.802 790.507,-144 860.936,-125.223 880.542,-128.436 950.507,-108 953.412,-107.152 956.398,-106.219 959.388,-105.24"/>
+<polygon fill="white" stroke="white" points="960.529,-108.549 968.863,-102.007 958.269,-101.924 960.529,-108.549"/>
 </g>
 <!-- Aphrodite&#45;&gt;Harmonia -->
 <g id="edge59" class="edge"><title>Aphrodite&#45;&gt;Harmonia</title>
-<path fill="none" stroke="black" d="M769.314,-149.627C776.269,-147.549 783.583,-145.551 790.507,-144 901.769,-119.086 933.311,-133.204 1044.51,-108 1048.12,-107.181 1051.85,-106.233 1055.56,-105.214"/>
-<polygon fill="black" stroke="black" points="1056.7,-108.53 1065.33,-102.386 1054.75,-101.807 1056.7,-108.53"/>
+<path fill="none" stroke="white" d="M769.314,-149.627C776.269,-147.549 783.583,-145.551 790.507,-144 901.769,-119.086 933.311,-133.204 1044.51,-108 1048.12,-107.181 1051.85,-106.233 1055.56,-105.214"/>
+<polygon fill="white" stroke="white" points="1056.7,-108.53 1065.33,-102.386 1054.75,-101.807 1056.7,-108.53"/>
 </g>
 <!-- Aphrodite&#45;&gt;Adrestia -->
 <g id="edge63" class="edge"><title>Aphrodite&#45;&gt;Adrestia</title>
-<path fill="none" stroke="black" d="M703.276,-149.125C670.566,-137.074 619.885,-118.402 584.832,-105.488"/>
-<polygon fill="black" stroke="black" points="585.981,-102.181 575.387,-102.008 583.561,-108.75 585.981,-102.181"/>
+<path fill="none" stroke="white" d="M703.276,-149.125C670.566,-137.074 619.885,-118.402 584.832,-105.488"/>
+<polygon fill="white" stroke="white" points="585.981,-102.181 575.387,-102.008 583.561,-108.75 585.981,-102.181"/>
 </g>
 <!-- Aphrodite&#45;&gt;Anteros -->
 <g id="edge61" class="edge"><title>Aphrodite&#45;&gt;Anteros</title>
-<path fill="none" stroke="black" d="M715.111,-145.811C701.75,-135.862 684.113,-122.727 669.453,-111.81"/>
-<polygon fill="black" stroke="black" points="671.331,-108.845 661.22,-105.68 667.15,-114.459 671.331,-108.845"/>
+<path fill="none" stroke="white" d="M715.111,-145.811C701.75,-135.862 684.113,-122.727 669.453,-111.81"/>
+<polygon fill="white" stroke="white" points="671.331,-108.845 661.22,-105.68 667.15,-114.459 671.331,-108.845"/>
 </g>
 <!-- Aphrodite&#45;&gt;Himeros -->
 <g id="edge65" class="edge"><title>Aphrodite&#45;&gt;Himeros</title>
-<path fill="none" stroke="black" d="M736.249,-143.697C736.579,-135.983 736.977,-126.712 737.345,-118.112"/>
-<polygon fill="black" stroke="black" points="740.843,-118.245 737.774,-108.104 733.849,-117.945 740.843,-118.245"/>
+<path fill="none" stroke="white" d="M736.249,-143.697C736.579,-135.983 736.977,-126.712 737.345,-118.112"/>
+<polygon fill="white" stroke="white" points="740.843,-118.245 737.774,-108.104 733.849,-117.945 740.843,-118.245"/>
 </g>
 <!-- Aphrodite&#45;&gt;Hermaphroditus -->
 <g id="edge67" class="edge"><title>Aphrodite&#45;&gt;Hermaphroditus</title>
-<path fill="none" stroke="black" d="M700.094,-150.474C692.042,-148.218 683.505,-145.934 675.507,-144 596.633,-124.925 575.909,-124.748 496.507,-108 491.065,-106.852 485.412,-105.641 479.75,-104.414"/>
-<polygon fill="black" stroke="black" points="480.112,-100.911 469.596,-102.202 478.621,-107.75 480.112,-100.911"/>
+<path fill="none" stroke="white" d="M700.094,-150.474C692.042,-148.218 683.505,-145.934 675.507,-144 596.633,-124.925 575.909,-124.748 496.507,-108 491.065,-106.852 485.412,-105.641 479.75,-104.414"/>
+<polygon fill="white" stroke="white" points="480.112,-100.911 469.596,-102.202 478.621,-107.75 480.112,-100.911"/>
 </g>
 <!-- Aphrodite&#45;&gt;Tyche -->
 <g id="edge69" class="edge"><title>Aphrodite&#45;&gt;Tyche</title>
-<path fill="none" stroke="black" d="M700.847,-150.109C692.605,-147.818 683.797,-145.611 675.507,-144 529.377,-115.609 486.564,-145.518 342.507,-108 340.166,-107.39 337.784,-106.667 335.408,-105.867"/>
-<polygon fill="black" stroke="black" points="336.386,-102.496 325.794,-102.251 333.921,-109.047 336.386,-102.496"/>
+<path fill="none" stroke="white" d="M700.847,-150.109C692.605,-147.818 683.797,-145.611 675.507,-144 529.377,-115.609 486.564,-145.518 342.507,-108 340.166,-107.39 337.784,-106.667 335.408,-105.867"/>
+<polygon fill="white" stroke="white" points="336.386,-102.496 325.794,-102.251 333.921,-109.047 336.386,-102.496"/>
 </g>
 <!-- Dione -->
 <g id="node22" class="node"><title>Dione</title>
-<ellipse fill="none" stroke="pink" cx="717.507" cy="-234" rx="31.9393" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="717.507" cy="-234" rx="31.9393" ry="18"/>
 <text text-anchor="middle" x="717.507" y="-229.8" font-family="Times,serif" font-size="14.00">Dione</text>
 </g>
 <!-- Dione&#45;&gt;Aphrodite -->
 <g id="edge29" class="edge"><title>Dione&#45;&gt;Aphrodite</title>
-<path fill="none" stroke="black" d="M721.865,-216.055C723.869,-208.261 726.296,-198.822 728.544,-190.079"/>
-<polygon fill="black" stroke="black" points="731.964,-190.832 731.065,-180.275 725.185,-189.089 731.964,-190.832"/>
+<path fill="none" stroke="white" d="M721.865,-216.055C723.869,-208.261 726.296,-198.822 728.544,-190.079"/>
+<polygon fill="white" stroke="white" points="731.964,-190.832 731.065,-180.275 725.185,-189.089 731.964,-190.832"/>
 </g>
 <!-- Leto -->
 <g id="node23" class="node"><title>Leto</title>
-<ellipse fill="none" stroke="pink" cx="1615.51" cy="-234" rx="27" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="1615.51" cy="-234" rx="27" ry="18"/>
 <text text-anchor="middle" x="1615.51" y="-229.8" font-family="Times,serif" font-size="14.00">Leto</text>
 </g>
 <!-- Leto&#45;&gt;Apollo -->
 <g id="edge20" class="edge"><title>Leto&#45;&gt;Apollo</title>
-<path fill="none" stroke="black" d="M1625.95,-217.116C1631.63,-208.469 1638.79,-197.575 1645.19,-187.833"/>
-<polygon fill="black" stroke="black" points="1648.22,-189.586 1650.79,-179.307 1642.37,-185.742 1648.22,-189.586"/>
+<path fill="none" stroke="white" d="M1625.95,-217.116C1631.63,-208.469 1638.79,-197.575 1645.19,-187.833"/>
+<polygon fill="white" stroke="white" points="1648.22,-189.586 1650.79,-179.307 1642.37,-185.742 1648.22,-189.586"/>
 </g>
 <!-- Leto&#45;&gt;Artemis -->
 <g id="edge22" class="edge"><title>Leto&#45;&gt;Artemis</title>
-<path fill="none" stroke="black" d="M1605.3,-217.116C1599.82,-208.592 1592.93,-197.886 1586.74,-188.251"/>
-<polygon fill="black" stroke="black" points="1589.66,-186.316 1581.31,-179.797 1583.77,-190.102 1589.66,-186.316"/>
+<path fill="none" stroke="white" d="M1605.3,-217.116C1599.82,-208.592 1592.93,-197.886 1586.74,-188.251"/>
+<polygon fill="white" stroke="white" points="1589.66,-186.316 1581.31,-179.797 1583.77,-190.102 1589.66,-186.316"/>
 </g>
 <!-- Eucleia -->
 <g id="node52" class="node"><title>Eucleia</title>
-<ellipse fill="none" stroke="pink" cx="1419.51" cy="-18" rx="36.7403" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="1419.51" cy="-18" rx="36.7403" ry="18"/>
 <text text-anchor="middle" x="1419.51" y="-13.8" font-family="Times,serif" font-size="14.00">Eucleia</text>
 </g>
 <!-- Hephaestus&#45;&gt;Eucleia -->
 <g id="edge85" class="edge"><title>Hephaestus&#45;&gt;Eucleia</title>
-<path fill="none" stroke="black" d="M1333.11,-73.9832C1349.45,-63.5836 1371.35,-49.6441 1389.02,-38.403"/>
-<polygon fill="black" stroke="black" points="1391.26,-41.1252 1397.82,-32.8036 1387.5,-35.2196 1391.26,-41.1252"/>
+<path fill="none" stroke="white" d="M1333.11,-73.9832C1349.45,-63.5836 1371.35,-49.6441 1389.02,-38.403"/>
+<polygon fill="white" stroke="white" points="1391.26,-41.1252 1397.82,-32.8036 1387.5,-35.2196 1391.26,-41.1252"/>
 </g>
 <!-- Eupheme -->
 <g id="node53" class="node"><title>Eupheme</title>
-<ellipse fill="none" stroke="pink" cx="1517.51" cy="-18" rx="43.506" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="1517.51" cy="-18" rx="43.506" ry="18"/>
 <text text-anchor="middle" x="1517.51" y="-13.8" font-family="Times,serif" font-size="14.00">Eupheme</text>
 </g>
 <!-- Hephaestus&#45;&gt;Eupheme -->
 <g id="edge87" class="edge"><title>Hephaestus&#45;&gt;Eupheme</title>
-<path fill="none" stroke="black" d="M1345.26,-76.9666C1381.3,-64.838 1436.92,-46.1217 1475.15,-33.2562"/>
-<polygon fill="black" stroke="black" points="1476.59,-36.463 1484.95,-29.9561 1474.36,-29.8286 1476.59,-36.463"/>
+<path fill="none" stroke="white" d="M1345.26,-76.9666C1381.3,-64.838 1436.92,-46.1217 1475.15,-33.2562"/>
+<polygon fill="white" stroke="white" points="1476.59,-36.463 1484.95,-29.9561 1474.36,-29.8286 1476.59,-36.463"/>
 </g>
 <!-- Euthenia -->
 <g id="node54" class="node"><title>Euthenia</title>
-<ellipse fill="none" stroke="pink" cx="1182.51" cy="-18" rx="41.5766" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="1182.51" cy="-18" rx="41.5766" ry="18"/>
 <text text-anchor="middle" x="1182.51" y="-13.8" font-family="Times,serif" font-size="14.00">Euthenia</text>
 </g>
 <!-- Hephaestus&#45;&gt;Euthenia -->
 <g id="edge89" class="edge"><title>Hephaestus&#45;&gt;Euthenia</title>
-<path fill="none" stroke="black" d="M1283.19,-74.496C1263.7,-63.7518 1236.99,-49.029 1215.98,-37.4476"/>
-<polygon fill="black" stroke="black" points="1217.51,-34.2975 1207.06,-32.5356 1214.13,-40.428 1217.51,-34.2975"/>
+<path fill="none" stroke="white" d="M1283.19,-74.496C1263.7,-63.7518 1236.99,-49.029 1215.98,-37.4476"/>
+<polygon fill="white" stroke="white" points="1217.51,-34.2975 1207.06,-32.5356 1214.13,-40.428 1217.51,-34.2975"/>
 </g>
 <!-- Philophrosyne -->
 <g id="node55" class="node"><title>Philophrosyne</title>
-<ellipse fill="none" stroke="pink" cx="1303.51" cy="-18" rx="61.4064" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="1303.51" cy="-18" rx="61.4064" ry="18"/>
 <text text-anchor="middle" x="1303.51" y="-13.8" font-family="Times,serif" font-size="14.00">Philophrosyne</text>
 </g>
 <!-- Hephaestus&#45;&gt;Philophrosyne -->
 <g id="edge91" class="edge"><title>Hephaestus&#45;&gt;Philophrosyne</title>
-<path fill="none" stroke="black" d="M1308.02,-71.6966C1307.36,-63.9827 1306.57,-54.7125 1305.83,-46.1124"/>
-<polygon fill="black" stroke="black" points="1309.31,-45.7689 1304.97,-36.1043 1302.34,-46.3667 1309.31,-45.7689"/>
+<path fill="none" stroke="white" d="M1308.02,-71.6966C1307.36,-63.9827 1306.57,-54.7125 1305.83,-46.1124"/>
+<polygon fill="white" stroke="white" points="1309.31,-45.7689 1304.97,-36.1043 1302.34,-46.3667 1309.31,-45.7689"/>
 </g>
 <!-- Metis -->
 <g id="node26" class="node"><title>Metis</title>
-<ellipse fill="none" stroke="pink" cx="1949.51" cy="-234" rx="30.0035" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="1949.51" cy="-234" rx="30.0035" ry="18"/>
 <text text-anchor="middle" x="1949.51" y="-229.8" font-family="Times,serif" font-size="14.00">Metis</text>
 </g>
 <!-- Metis&#45;&gt;Athena -->
 <g id="edge18" class="edge"><title>Metis&#45;&gt;Athena</title>
-<path fill="none" stroke="black" d="M1949.51,-215.697C1949.51,-207.983 1949.51,-198.712 1949.51,-190.112"/>
-<polygon fill="black" stroke="black" points="1953.01,-190.104 1949.51,-180.104 1946.01,-190.104 1953.01,-190.104"/>
+<path fill="none" stroke="white" d="M1949.51,-215.697C1949.51,-207.983 1949.51,-198.712 1949.51,-190.112"/>
+<polygon fill="white" stroke="white" points="1953.01,-190.104 1949.51,-180.104 1946.01,-190.104 1953.01,-190.104"/>
 </g>
 <!-- Hera&#45;&gt;Ares -->
 <g id="edge16" class="edge"><title>Hera&#45;&gt;Ares</title>
-<path fill="none" stroke="black" d="M883.589,-218.496C873.549,-208.735 860.131,-195.69 848.827,-184.7"/>
-<polygon fill="black" stroke="black" points="851.016,-181.947 841.407,-177.485 846.137,-186.966 851.016,-181.947"/>
+<path fill="none" stroke="white" d="M883.589,-218.496C873.549,-208.735 860.131,-195.69 848.827,-184.7"/>
+<polygon fill="white" stroke="white" points="851.016,-181.947 841.407,-177.485 846.137,-186.966 851.016,-181.947"/>
 </g>
 <!-- Hera&#45;&gt;Hephaestus -->
 <g id="edge35" class="edge"><title>Hera&#45;&gt;Hephaestus</title>
-<path fill="none" stroke="black" d="M892.999,-216.153C887.652,-196.219 882.687,-163.307 900.507,-144 953.539,-86.5452 1173.75,-122.883 1250.51,-108 1254.63,-107.201 1258.88,-106.246 1263.12,-105.201"/>
-<polygon fill="black" stroke="black" points="1264.14,-108.551 1272.93,-102.633 1262.37,-101.779 1264.14,-108.551"/>
+<path fill="none" stroke="white" d="M892.999,-216.153C887.652,-196.219 882.687,-163.307 900.507,-144 953.539,-86.5452 1173.75,-122.883 1250.51,-108 1254.63,-107.201 1258.88,-106.246 1263.12,-105.201"/>
+<polygon fill="white" stroke="white" points="1264.14,-108.551 1272.93,-102.633 1262.37,-101.779 1264.14,-108.551"/>
 </g>
 <!-- Hera&#45;&gt;Enyo -->
 <g id="edge43" class="edge"><title>Hera&#45;&gt;Enyo</title>
-<path fill="none" stroke="black" d="M925.16,-229.427C972.244,-222.688 1072.88,-206.365 1154.51,-180 1156.63,-179.314 1158.79,-178.546 1160.96,-177.727"/>
-<polygon fill="black" stroke="black" points="1162.39,-180.922 1170.32,-173.891 1159.74,-174.444 1162.39,-180.922"/>
+<path fill="none" stroke="white" d="M925.16,-229.427C972.244,-222.688 1072.88,-206.365 1154.51,-180 1156.63,-179.314 1158.79,-178.546 1160.96,-177.727"/>
+<polygon fill="white" stroke="white" points="1162.39,-180.922 1170.32,-173.891 1159.74,-174.444 1162.39,-180.922"/>
 </g>
 <!-- Hera&#45;&gt;Eileithyia -->
 <g id="edge41" class="edge"><title>Hera&#45;&gt;Eileithyia</title>
-<path fill="none" stroke="black" d="M910.441,-217.811C917.353,-209.015 926.219,-197.73 934.109,-187.688"/>
-<polygon fill="black" stroke="black" points="937.016,-189.653 940.443,-179.628 931.512,-185.329 937.016,-189.653"/>
+<path fill="none" stroke="white" d="M910.441,-217.811C917.353,-209.015 926.219,-197.73 934.109,-187.688"/>
+<polygon fill="white" stroke="white" points="937.016,-189.653 940.443,-179.628 931.512,-185.329 937.016,-189.653"/>
 </g>
 <!-- Hera&#45;&gt;Eris -->
 <g id="edge39" class="edge"><title>Hera&#45;&gt;Eris</title>
-<path fill="none" stroke="black" d="M919.755,-222.671C944.109,-210.832 984.226,-191.331 1011.94,-177.862"/>
-<polygon fill="black" stroke="black" points="1013.71,-180.891 1021.17,-173.371 1010.65,-174.595 1013.71,-180.891"/>
+<path fill="none" stroke="white" d="M919.755,-222.671C944.109,-210.832 984.226,-191.331 1011.94,-177.862"/>
+<polygon fill="white" stroke="white" points="1013.71,-180.891 1021.17,-173.371 1010.65,-174.595 1013.71,-180.891"/>
 </g>
 <!-- Hera&#45;&gt;Hebe -->
 <g id="edge37" class="edge"><title>Hera&#45;&gt;Hebe</title>
-<path fill="none" stroke="black" d="M923.6,-226.753C958.704,-217.756 1024.26,-200.018 1078.51,-180 1080.6,-179.227 1082.74,-178.394 1084.89,-177.526"/>
-<polygon fill="black" stroke="black" points="1086.37,-180.7 1094.21,-173.574 1083.64,-174.255 1086.37,-180.7"/>
+<path fill="none" stroke="white" d="M923.6,-226.753C958.704,-217.756 1024.26,-200.018 1078.51,-180 1080.6,-179.227 1082.74,-178.394 1084.89,-177.526"/>
+<polygon fill="white" stroke="white" points="1086.37,-180.7 1094.21,-173.574 1083.64,-174.255 1086.37,-180.7"/>
 </g>
 <!-- Persephone&#45;&gt;Zagreus -->
 <g id="edge25" class="edge"><title>Persephone&#45;&gt;Zagreus</title>
-<path fill="none" stroke="black" d="M450.039,-150.418C441.627,-148.236 432.785,-145.996 424.507,-144 352.384,-126.611 332.763,-128.661 261.507,-108 258.734,-107.196 255.887,-106.313 253.033,-105.387"/>
-<polygon fill="black" stroke="black" points="253.991,-102.016 243.397,-102.115 251.74,-108.644 253.991,-102.016"/>
+<path fill="none" stroke="white" d="M450.039,-150.418C441.627,-148.236 432.785,-145.996 424.507,-144 352.384,-126.611 332.763,-128.661 261.507,-108 258.734,-107.196 255.887,-106.313 253.033,-105.387"/>
+<polygon fill="white" stroke="white" points="253.991,-102.016 243.397,-102.115 251.74,-108.644 253.991,-102.016"/>
 </g>
 <!-- Persephone&#45;&gt;Melinoe -->
 <g id="edge23" class="edge"><title>Persephone&#45;&gt;Melinoe</title>
-<path fill="none" stroke="black" d="M525.723,-149.204C533.188,-147.159 541.048,-145.281 548.507,-144 813.55,-98.4942 888.774,-160.566 1152.51,-108 1155.92,-107.319 1159.42,-106.456 1162.91,-105.482"/>
-<polygon fill="black" stroke="black" points="1164.07,-108.787 1172.59,-102.498 1162.01,-102.097 1164.07,-108.787"/>
+<path fill="none" stroke="white" d="M525.723,-149.204C533.188,-147.159 541.048,-145.281 548.507,-144 813.55,-98.4942 888.774,-160.566 1152.51,-108 1155.92,-107.319 1159.42,-106.456 1162.91,-105.482"/>
+<polygon fill="white" stroke="white" points="1164.07,-108.787 1172.59,-102.498 1162.01,-102.097 1164.07,-108.787"/>
 </g>
 <!-- Demeter&#45;&gt;Persephone -->
 <g id="edge14" class="edge"><title>Demeter&#45;&gt;Persephone</title>
-<path fill="none" stroke="black" d="M343.798,-221.284C372.192,-209.926 415.552,-192.582 447.595,-179.765"/>
-<polygon fill="black" stroke="black" points="449.162,-182.908 457.147,-175.944 446.562,-176.409 449.162,-182.908"/>
+<path fill="none" stroke="white" d="M343.798,-221.284C372.192,-209.926 415.552,-192.582 447.595,-179.765"/>
+<polygon fill="white" stroke="white" points="449.162,-182.908 457.147,-175.944 446.562,-176.409 449.162,-182.908"/>
 </g>
 <!-- Demeter&#45;&gt;Despoina -->
 <g id="edge74" class="edge"><title>Demeter&#45;&gt;Despoina</title>
-<path fill="none" stroke="black" d="M284.374,-221.882C278.178,-219.784 271.667,-217.713 265.507,-216 191.101,-195.302 170.096,-200.028 95.5073,-180 92.1964,-179.111 88.7855,-178.135 85.3685,-177.113"/>
-<polygon fill="black" stroke="black" points="86.3885,-173.765 75.8007,-174.151 84.3183,-180.452 86.3885,-173.765"/>
+<path fill="none" stroke="white" d="M284.374,-221.882C278.178,-219.784 271.667,-217.713 265.507,-216 191.101,-195.302 170.096,-200.028 95.5073,-180 92.1964,-179.111 88.7855,-178.135 85.3685,-177.113"/>
+<polygon fill="white" stroke="white" points="86.3885,-173.765 75.8007,-174.151 84.3183,-180.452 86.3885,-173.765"/>
 </g>
 <!-- Demeter&#45;&gt;Arion -->
 <g id="edge76" class="edge"><title>Demeter&#45;&gt;Arion</title>
-<path fill="none" stroke="black" d="M284.283,-221.849C256.04,-211.341 212.757,-195.011 175.507,-180 173.322,-179.12 171.076,-178.201 168.814,-177.267"/>
-<polygon fill="black" stroke="black" points="170.136,-174.026 159.56,-173.395 167.434,-180.483 170.136,-174.026"/>
+<path fill="none" stroke="white" d="M284.283,-221.849C256.04,-211.341 212.757,-195.011 175.507,-180 173.322,-179.12 171.076,-178.201 168.814,-177.267"/>
+<polygon fill="white" stroke="white" points="170.136,-174.026 159.56,-173.395 167.434,-180.483 170.136,-174.026"/>
 </g>
 <!-- Rhea&#45;&gt;Zeus -->
 <g id="edge2" class="edge"><title>Rhea&#45;&gt;Zeus</title>
-<path fill="none" stroke="black" d="M738.613,-293.992C743.706,-291.706 749.21,-289.53 754.507,-288 884.135,-250.555 1045.14,-239.454 1116.92,-236.252"/>
-<polygon fill="black" stroke="black" points="1117.41,-239.734 1127.26,-235.819 1117.12,-232.741 1117.41,-239.734"/>
+<path fill="none" stroke="white" d="M738.613,-293.992C743.706,-291.706 749.21,-289.53 754.507,-288 884.135,-250.555 1045.14,-239.454 1116.92,-236.252"/>
+<polygon fill="white" stroke="white" points="1117.41,-239.734 1127.26,-235.819 1117.12,-232.741 1117.41,-239.734"/>
 </g>
 <!-- Rhea&#45;&gt;Poseidon -->
 <g id="edge12" class="edge"><title>Rhea&#45;&gt;Poseidon</title>
-<path fill="none" stroke="black" d="M689.337,-303.715C617.647,-300.013 422.757,-287.24 264.507,-252 261.125,-251.247 257.652,-250.355 254.184,-249.38"/>
-<polygon fill="black" stroke="black" points="255.093,-245.998 244.509,-246.459 253.07,-252.699 255.093,-245.998"/>
+<path fill="none" stroke="white" d="M689.337,-303.715C617.647,-300.013 422.757,-287.24 264.507,-252 261.125,-251.247 257.652,-250.355 254.184,-249.38"/>
+<polygon fill="white" stroke="white" points="255.093,-245.998 244.509,-246.459 253.07,-252.699 255.093,-245.998"/>
 </g>
 <!-- Rhea&#45;&gt;Hades -->
 <g id="edge8" class="edge"><title>Rhea&#45;&gt;Hades</title>
-<path fill="none" stroke="black" d="M692.743,-297.141C661.824,-287.203 607.413,-269.294 561.507,-252 559.398,-251.205 557.236,-250.37 555.06,-249.515"/>
-<polygon fill="black" stroke="black" points="556.139,-246.177 545.556,-245.691 553.527,-252.671 556.139,-246.177"/>
+<path fill="none" stroke="white" d="M692.743,-297.141C661.824,-287.203 607.413,-269.294 561.507,-252 559.398,-251.205 557.236,-250.37 555.06,-249.515"/>
+<polygon fill="white" stroke="white" points="556.139,-246.177 545.556,-245.691 553.527,-252.671 556.139,-246.177"/>
 </g>
 <!-- Rhea&#45;&gt;Hestia -->
 <g id="edge10" class="edge"><title>Rhea&#45;&gt;Hestia</title>
-<path fill="none" stroke="black" d="M733.708,-291.17C745.381,-281.206 761.35,-267.574 774.633,-256.235"/>
-<polygon fill="black" stroke="black" points="777.16,-258.679 782.494,-249.524 772.615,-253.355 777.16,-258.679"/>
+<path fill="none" stroke="white" d="M733.708,-291.17C745.381,-281.206 761.35,-267.574 774.633,-256.235"/>
+<polygon fill="white" stroke="white" points="777.16,-258.679 782.494,-249.524 772.615,-253.355 777.16,-258.679"/>
 </g>
 <!-- Rhea&#45;&gt;Hera -->
 <g id="edge4" class="edge"><title>Rhea&#45;&gt;Hera</title>
-<path fill="none" stroke="black" d="M739.688,-294.468C744.541,-292.26 749.672,-289.997 754.507,-288 791.95,-272.535 835.722,-256.742 865.091,-246.467"/>
-<polygon fill="black" stroke="black" points="866.551,-249.665 874.844,-243.072 864.25,-243.054 866.551,-249.665"/>
+<path fill="none" stroke="white" d="M739.688,-294.468C744.541,-292.26 749.672,-289.997 754.507,-288 791.95,-272.535 835.722,-256.742 865.091,-246.467"/>
+<polygon fill="white" stroke="white" points="866.551,-249.665 874.844,-243.072 864.25,-243.054 866.551,-249.665"/>
 </g>
 <!-- Rhea&#45;&gt;Demeter -->
 <g id="edge6" class="edge"><title>Rhea&#45;&gt;Demeter</title>
-<path fill="none" stroke="black" d="M689.627,-302.599C629.411,-297.027 482.987,-281.401 363.507,-252 360.36,-251.225 357.128,-250.333 353.899,-249.37"/>
-<polygon fill="black" stroke="black" points="354.893,-246.014 344.303,-246.321 352.774,-252.685 354.893,-246.014"/>
+<path fill="none" stroke="white" d="M689.627,-302.599C629.411,-297.027 482.987,-281.401 363.507,-252 360.36,-251.225 357.128,-250.333 353.899,-249.37"/>
+<polygon fill="white" stroke="white" points="354.893,-246.014 344.303,-246.321 352.774,-252.685 354.893,-246.014"/>
 </g>
 <!-- Eunomia&#45;&gt;Aglaea -->
 <g id="edge79" class="edge"><title>Eunomia&#45;&gt;Aglaea</title>
-<path fill="none" stroke="black" d="M1428.67,-144.055C1426.44,-136.261 1423.74,-126.822 1421.24,-118.079"/>
-<polygon fill="black" stroke="black" points="1424.56,-116.929 1418.44,-108.275 1417.83,-118.852 1424.56,-116.929"/>
+<path fill="none" stroke="white" d="M1428.67,-144.055C1426.44,-136.261 1423.74,-126.822 1421.24,-118.079"/>
+<polygon fill="white" stroke="white" points="1424.56,-116.929 1418.44,-108.275 1417.83,-118.852 1424.56,-116.929"/>
 </g>
 <!-- Eunomia&#45;&gt;Euphrosyne -->
 <g id="edge81" class="edge"><title>Eunomia&#45;&gt;Euphrosyne</title>
-<path fill="none" stroke="black" d="M1451.95,-145.811C1463.41,-136.377 1478.34,-124.081 1491.16,-113.525"/>
-<polygon fill="black" stroke="black" points="1493.72,-115.947 1499.21,-106.888 1489.27,-110.544 1493.72,-115.947"/>
+<path fill="none" stroke="white" d="M1451.95,-145.811C1463.41,-136.377 1478.34,-124.081 1491.16,-113.525"/>
+<polygon fill="white" stroke="white" points="1493.72,-115.947 1499.21,-106.888 1489.27,-110.544 1493.72,-115.947"/>
 </g>
 <!-- Eunomia&#45;&gt;Thalia -->
 <g id="edge83" class="edge"><title>Eunomia&#45;&gt;Thalia</title>
-<path fill="none" stroke="black" d="M1464.96,-149.956C1494.61,-139.455 1540.23,-123.071 1579.51,-108 1581.74,-107.144 1584.03,-106.252 1586.34,-105.344"/>
-<polygon fill="black" stroke="black" points="1587.8,-108.528 1595.8,-101.577 1585.21,-102.024 1587.8,-108.528"/>
+<path fill="none" stroke="white" d="M1464.96,-149.956C1494.61,-139.455 1540.23,-123.071 1579.51,-108 1581.74,-107.144 1584.03,-106.252 1586.34,-105.344"/>
+<polygon fill="white" stroke="white" points="1587.8,-108.528 1595.8,-101.577 1585.21,-102.024 1587.8,-108.528"/>
 </g>
 <!-- Themis -->
 <g id="node46" class="node"><title>Themis</title>
-<ellipse fill="none" stroke="black" cx="1337.51" cy="-234" rx="36.7663" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="1337.51" cy="-234" rx="36.7663" ry="18"/>
 <text text-anchor="middle" x="1337.51" y="-229.8" font-family="Times,serif" font-size="14.00">Themis</text>
 </g>
 <!-- Themis&#45;&gt;Eunomia -->
 <g id="edge73" class="edge"><title>Themis&#45;&gt;Eunomia</title>
-<path fill="none" stroke="black" d="M1357.4,-218.496C1371.11,-208.495 1389.56,-195.046 1404.86,-183.892"/>
-<polygon fill="black" stroke="black" points="1406.96,-186.688 1412.98,-177.968 1402.84,-181.032 1406.96,-186.688"/>
+<path fill="none" stroke="white" d="M1357.4,-218.496C1371.11,-208.495 1389.56,-195.046 1404.86,-183.892"/>
+<polygon fill="white" stroke="white" points="1406.96,-186.688 1412.98,-177.968 1402.84,-181.032 1406.96,-186.688"/>
 </g>
 <!-- Aglaea&#45;&gt;Eucleia -->
 <g id="edge84" class="edge"><title>Aglaea&#45;&gt;Eucleia</title>
-<path fill="none" stroke="black" d="M1414.99,-71.6966C1415.65,-63.9827 1416.45,-54.7125 1417.18,-46.1124"/>
-<polygon fill="black" stroke="black" points="1420.67,-46.3667 1418.04,-36.1043 1413.7,-45.7689 1420.67,-46.3667"/>
+<path fill="none" stroke="white" d="M1414.99,-71.6966C1415.65,-63.9827 1416.45,-54.7125 1417.18,-46.1124"/>
+<polygon fill="white" stroke="white" points="1420.67,-46.3667 1418.04,-36.1043 1413.7,-45.7689 1420.67,-46.3667"/>
 </g>
 <!-- Aglaea&#45;&gt;Eupheme -->
 <g id="edge86" class="edge"><title>Aglaea&#45;&gt;Eupheme</title>
-<path fill="none" stroke="black" d="M1434.05,-75.1703C1449.18,-64.9913 1469.99,-50.9859 1487.04,-39.5067"/>
-<polygon fill="black" stroke="black" points="1489.23,-42.255 1495.57,-33.7677 1485.32,-36.4479 1489.23,-42.255"/>
+<path fill="none" stroke="white" d="M1434.05,-75.1703C1449.18,-64.9913 1469.99,-50.9859 1487.04,-39.5067"/>
+<polygon fill="white" stroke="white" points="1489.23,-42.255 1495.57,-33.7677 1485.32,-36.4479 1489.23,-42.255"/>
 </g>
 <!-- Aglaea&#45;&gt;Euthenia -->
 <g id="edge88" class="edge"><title>Aglaea&#45;&gt;Euthenia</title>
-<path fill="none" stroke="black" d="M1386.68,-78.0979C1381.05,-75.9605 1375.12,-73.8196 1369.51,-72 1310.03,-52.7037 1293.42,-53.8951 1233.51,-36 1230.33,-35.0517 1227.06,-34.0396 1223.77,-32.9994"/>
-<polygon fill="black" stroke="black" points="1224.56,-29.5758 1213.97,-29.8312 1222.41,-36.2366 1224.56,-29.5758"/>
+<path fill="none" stroke="white" d="M1386.68,-78.0979C1381.05,-75.9605 1375.12,-73.8196 1369.51,-72 1310.03,-52.7037 1293.42,-53.8951 1233.51,-36 1230.33,-35.0517 1227.06,-34.0396 1223.77,-32.9994"/>
+<polygon fill="white" stroke="white" points="1224.56,-29.5758 1213.97,-29.8312 1222.41,-36.2366 1224.56,-29.5758"/>
 </g>
 <!-- Aglaea&#45;&gt;Philophrosyne -->
 <g id="edge90" class="edge"><title>Aglaea&#45;&gt;Philophrosyne</title>
-<path fill="none" stroke="black" d="M1392.3,-75.5033C1376.52,-65.4655 1354.7,-51.5752 1336.63,-40.0789"/>
-<polygon fill="black" stroke="black" points="1338.42,-37.0709 1328.11,-34.6549 1334.67,-42.9765 1338.42,-37.0709"/>
+<path fill="none" stroke="white" d="M1392.3,-75.5033C1376.52,-65.4655 1354.7,-51.5752 1336.63,-40.0789"/>
+<polygon fill="white" stroke="white" points="1338.42,-37.0709 1328.11,-34.6549 1334.67,-42.9765 1338.42,-37.0709"/>
 </g>
 <!-- Coronis -->
 <g id="node56" class="node"><title>Coronis</title>
-<ellipse fill="none" stroke="pink" cx="1752.51" cy="-162" rx="38.2284" ry="18"/>
+<ellipse fill="pink" stroke="white" cx="1752.51" cy="-162" rx="38.2284" ry="18"/>
 <text text-anchor="middle" x="1752.51" y="-157.8" font-family="Times,serif" font-size="14.00">Coronis</text>
 </g>
 <!-- Coronis&#45;&gt;Asclepius -->
 <g id="edge93" class="edge"><title>Coronis&#45;&gt;Asclepius</title>
-<path fill="none" stroke="black" d="M1748.15,-144.055C1746.15,-136.261 1743.72,-126.822 1741.47,-118.079"/>
-<polygon fill="black" stroke="black" points="1744.83,-117.089 1738.95,-108.275 1738.05,-118.832 1744.83,-117.089"/>
+<path fill="none" stroke="white" d="M1748.15,-144.055C1746.15,-136.261 1743.72,-126.822 1741.47,-118.079"/>
+<polygon fill="white" stroke="white" points="1744.83,-117.089 1738.95,-108.275 1738.05,-118.832 1744.83,-117.089"/>
 </g>
 </g>
 </svg>
