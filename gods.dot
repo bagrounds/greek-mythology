@@ -155,4 +155,46 @@ digraph gods {
   Eunomia[color=pink]
   Zeus -> Eunomia;
   Themis -> Eunomia;
+
+  Despoina[color=pink]
+  Demeter -> Despoina;
+  Poseidon -> Despoina;
+
+  Arion[color=blue]
+  Demeter -> Arion;
+  Poseidon -> Arion;
+
+  Aglaea[color=pink]
+  Eunomia[color=pink]
+  Zeus -> Aglaea;
+  Eunomia -> Aglaea;
+
+  Euphrosyne[color=pink]
+  Zeus -> Euphrosyne;
+  Eunomia -> Euphrosyne;
+
+  Thalia[color=pink]
+  Zeus -> Thalia;
+  Eunomia -> Thalia;
+
+  Eucleia[color=pink]
+  Aglaea -> Eucleia;
+  Hephaestus -> Eucleia;
+
+  Eupheme[color=pink]
+  Aglaea -> Eupheme;
+  Hephaestus -> Eupheme;
+
+  Euthenia[color=pink]
+  Aglaea -> Euthenia;
+  Hephaestus -> Euthenia;
+
+  Philophrosyne[color=pink]
+  Aglaea -> Philophrosyne;
+  Hephaestus -> Philophrosyne;
+
+  Coronis[color=pink]
+  Asclepius[color=blue]
+  Apollo -> Asclepius;
+  Coronis -> Asclepius;
 }
