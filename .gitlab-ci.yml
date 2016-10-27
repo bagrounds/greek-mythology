@@ -1,0 +1,22 @@
+{
+  "image": "node:4",
+  "stages": [
+    "deploy"
+  ],
+  "pages": {
+    "stage": "deploy",
+    "environment": "pages",
+    "script" [
+      "npm install",
+      "npm run build"
+    ],
+    "artifacts": {
+      "paths": [
+        "public"
+      ]
+    },
+    "only": [
+      "pages"
+    ]
+  }
+}
